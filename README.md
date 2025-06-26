@@ -1,6 +1,6 @@
 # Traning cse 15 days
-# 《 Day 1 》》
 In this I will share my experience and what I have learn in my 15 days training on daily basis
+# 《 Day 1 》
 Today Is My first day in (CSE 3rd sem Training)
 In first day of Training I learned about linux operating system,difference between linux and window and how to download Linux
 # * firstly I studied Linux operating system Introduction (like Linux is a free and open source OPERATING SYSTEM (OS) Kernel widely used as the foundation for various operating system,often referred to as distributions and It was discovered by (Linus Torvalds) in (1991)
