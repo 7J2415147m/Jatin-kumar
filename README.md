@@ -46,6 +46,35 @@ Step3
         -> Click desktop
 #  
         -> Then download IOS file of UBUNTU
-# 《 Day 2 》      
-
+# PRODUCT BASED COMPANIES
+     -> Develop and sell their own products
+     -> Example :- Google,Amazon,Adobe
+# SERVICE BASED COMPANIES
+     -> Those that help customers and clients solve their problems
+     -> Example :- TCS,Infosys,Wipro
+# 《 Day 2 》
+Today Is my second day of # (TRAINING CSE 15 DAYS)
+I studied today what is booting and its types,what is Kernel and it manages,what is shell its types and categories and Linux file structure and commands
+# first question is (What is Booting and its types)?
+Ans :- Booting is the process of starting a computer or electronic device and loading the operating system into the main memory (RAM) from the storage device (like HDD,SSD or ROM)
+## Types of Booting
+there are two main types:
+# 1. Cold Booting(Hard Booting)
+# * Defination: 
+When the computer is started from a completely powered-off state.
+# * Example:
+Turning on your PC or laptop after it was shut down.
+# * Process:
+Power -> BIOS/UEFI loads -> OS loads into RAM
+# 2. Warm Booting(Soft Booting)
+# * Defination:
+Restarting the computer withpout turning off the power
+# * Example:
+Pressing the "Restart" button or using Ctrl+Alt+Del on windows
+# * Used When:
+Software installs require reboot or suystem is lagging
+#  Second question is (What is Kernel and it manages)?
+Ans :- the kernel is the core part of an operating system.
+it acts as a bridge between hardware and software.
+it directly manages the system's resources like CPU,memory,and input/output devices
 
