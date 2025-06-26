@@ -73,8 +73,10 @@ Restarting the computer withpout turning off the power
 Pressing the "Restart" button or using Ctrl+Alt+Del on windows
 # * Used When:
 Software installs require reboot or suystem is lagging
+
 #  Second question is (What is Kernel and it manages)?
 Ans :- the kernel is the core part of an operating system.
 it acts as a bridge between hardware and software.
 it directly manages the system's resources like CPU,memory,and input/output devices
+
 
