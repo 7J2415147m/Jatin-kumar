@@ -113,6 +113,7 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 ## |    Hardware (Physical)  | ← CPU, RAM, disk, peripherals
 ## +-------------------------+
 # Linux Directory structure:
+![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/d6e1532c1e00bc71e9710f3e77200ad5fe4a8c1c/linux-directory-structure.png)
 ## /              → Root directory
 ## |-- /bin       → Essential user commands
 ## |-- /boot      → Boot loader files
@@ -129,7 +130,6 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 ## |-- /usr       → User programs, libraries
 ## |-- /var       → Variable files (logs, mail)
 # Linux Command Table:
-![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/d6e1532c1e00bc71e9710f3e77200ad5fe4a8c1c/linux-directory-structure.png)
 ##
 | **Category**        | **Command**           | **Description**                | **Example**                 |
 | ------------------- | --------------------- | ------------------------------ | --------------------------- |
