@@ -54,7 +54,7 @@ Step3
      -> Example :- TCS,Infosys,Wipro
 # 《 Day 2 》
 Today Is my second day of # (TRAINING CSE 15 DAYS)
-I studied today what is booting and its types,what is Kernel and it manages,what is shell its types and categories and Linux file structure and commands
+I studied today what is booting and its types,what is Kernel and it manages,what is shell its types and categories and Linux file structure and commands Then, I practice question 
 # first question is (What is Booting and its types)?
 Ans :- Booting is the process of starting a computer or electronic device and loading the operating system into the main memory (RAM) from the storage device (like HDD,SSD or ROM)
 ## Types of Booting
