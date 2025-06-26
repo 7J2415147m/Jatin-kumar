@@ -21,7 +21,7 @@ In first day of Training I learned about linux operating system,difference betwe
 | **Gaming**           | Limited compared to Windows (though growing)         | Excellent support for gaming (largest game library) |
 | **Popularity**       | Widely used in servers, developers, tech enthusiasts | Most popular for general desktop use, businesses    |
 | **Performance**      | Often faster and more efficient                      | Can be resource-heavy, especially with new versions |
-# Thirdly I studied ,How to download Linux OPERATING SYSTEM(OS)
+# * Thirdly I studied ,How to download Linux OPERATING SYSTEM(OS)
 Step1 
 # -> Search (ORCALE VIRTUALBOX) meaning is (VIRTUALBOX is free and open-source software that allows users to run multiple operating systems on a single computer simultaneously)
 #    
