@@ -4,7 +4,8 @@ Today Is My first day in (CSE 3rd sem Training)
 In first day of Training I learned about linux operating system,difference between linux and window and how to download Linux
 firstly I studied Linux operating system Introduction (like Linux is a free and open source OPERATING SYSTEM (OS) Kernel widely used as the foundation for various operating system,often referred to as distributions and It was discovered by (Linus Torvalds) in (1991)
 secondly I studied difference between Linux and window
-#like     | Feature              | **Linux**                                            | **Windows**                                         |
+##
+| Feature              | **Linux**                                            | **Windows**                                         |
 | -------------------- | ---------------------------------------------------- | --------------------------------------------------- |
 | **Cost**             | Free or open-source (mostly)                         | Paid (requires license for full version)            |
 | **Source Code**      | Open source (you can see and modify the code)        | Closed source (only Microsoft can modify)           |
