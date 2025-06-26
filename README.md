@@ -101,35 +101,33 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 | **cmd.exe**    | DOS         | Windows       | Basic command execution                      |
 | **PowerShell** | .NET        | Windows/Linux | Object-based scripting, powerful admin tools |
 # Fourth question is (Linus Structure and commands)
-##
-+-------------------------+
-|   Applications/Users    | ← Top-level programs (editors, browsers, scripts)
-+-------------------------+
-|     Shell (CLI/GUI)     | ← Interface between user and OS
-+-------------------------+
-|   System Libraries/API  | ← Support apps and shells with OS functions
-+-------------------------+
-|     Kernel (Core OS)    | ← Manages CPU, memory, devices, processes
-+-------------------------+
-|    Hardware (Physical)  | ← CPU, RAM, disk, peripherals
-+-------------------------+
+## +-------------------------+
+## |   Applications/Users    | ← Top-level programs (editors, browsers, scripts)
+## +-------------------------+
+## |     Shell (CLI/GUI)     | ← Interface between user and OS
+## +-------------------------+
+## |   System Libraries/API  | ← Support apps and shells with OS functions
+## +-------------------------+
+## |     Kernel (Core OS)    | ← Manages CPU, memory, devices, processes
+## +-------------------------+
+## |    Hardware (Physical)  | ← CPU, RAM, disk, peripherals
+## +-------------------------+
 # Linux Directory structure:
-## 
-/              → Root directory
-|-- /bin       → Essential user commands
-|-- /boot      → Boot loader files
-|-- /dev       → Device files
-|-- /etc       → System configuration files
-|-- /home      → User home directories
-|-- /lib       → System libraries
-|-- /media     → Mounted media (USB, CD)
-|-- /opt       → Optional packages
-|-- /proc      → Kernel & process info (virtual)
-|-- /root      → Home directory of root user
-|-- /sbin      → System admin commands
-|-- /tmp       → Temporary files
-|-- /usr       → User programs, libraries
-|-- /var       → Variable files (logs, mail)
+## /              → Root directory
+## |-- /bin       → Essential user commands
+## |-- /boot      → Boot loader files
+## |-- /dev       → Device files
+## |-- /etc       → System configuration files
+## |-- /home      → User home directories
+## |-- /lib       → System libraries
+## |-- /media     → Mounted media (USB, CD)
+## |-- /opt       → Optional packages
+## |-- /proc      → Kernel & process info (virtual)
+## |-- /root      → Home directory of root user
+## |-- /sbin      → System admin commands
+## |-- /tmp       → Temporary files
+## |-- /usr       → User programs, libraries
+## |-- /var       → Variable files (logs, mail)
 # Linux Command Table:
 ##
 | **Category**        | **Command**           | **Description**                | **Example**                 |
