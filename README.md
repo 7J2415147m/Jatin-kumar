@@ -21,27 +21,23 @@ secondly I studied difference between Linux and window
 | **Gaming**           | Limited compared to Windows (though growing)         | Excellent support for gaming (largest game library) |
 | **Popularity**       | Widely used in servers, developers, tech enthusiasts | Most popular for general desktop use, businesses    |
 | **Performance**      | Often faster and more efficient                      | Can be resource-heavy, especially with new versions |
-#
-Thirdly I studied ,How to download Linux OPERATING SYSTEM(OS)
-Step1 -> 
-#
-Search (ORCALE VIRTUALBOX) meaning is (VIRTUALBOX is free and open-source software that allows users to run multiple operating systems on a single computer simultaneously)
+# Thirdly I studied ,How to download Linux OPERATING SYSTEM(OS)
+Step1 
+# -> Search (ORCALE VIRTUALBOX) meaning is (VIRTUALBOX is free and open-source software that allows users to run multiple operating systems on a single computer simultaneously)
 #    
         -> Visit the official website:
         https://wwww.virtualbox.ord/
 #
         -> Then download the version(Windows host)
 Step2   -> 
-#
-Search (MICROSOFT VISUAL C++ REDISTRIBUTABLE 2019) meaning is (The MICROSOFT VISUAL C++ 2019 REDISTRIBUTABLE is a package of runtime components that are required to run applications built using MICROSOFT's C and C++ libraries)
+# -> Search (MICROSOFT VISUAL C++ REDISTRIBUTABLE 2019) meaning is (The MICROSOFT VISUAL C++ 2019 REDISTRIBUTABLE is a package of runtime components that are required to run applications built using MICROSOFT's C and C++ libraries)
 #       
         -> visit the official website:
         https://learn.microsoft.com
 #      
         -> Then,click X64 to download
-Step3   ->
-#
-Search (UBUNTU) mening is (UBUNTU is a popular,free and open-source Linux distributionb Known for its user-friendliness and versatility,widely used for desktop and server environments.)
+Step3   
+# -> Search (UBUNTU) mening is (UBUNTU is a popular,free and open-source Linux distributionb Known for its user-friendliness and versatility,widely used for desktop and server environments.)
 #
         -> visits the official website:
            https://ubuntu.com/
