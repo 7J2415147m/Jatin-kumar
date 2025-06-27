@@ -163,3 +163,4 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 |                     | `echo`                | Print output                   | `echo "Hello Linux"`        |
 |                     | `history`             | Show command history           | `history`                   |
 # Then,I practice question in Lab
+![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/f1ad7f0d88bbc0f71eabbfdc32b11cb88b1ab685/Screenshot_20250627_073146_Gallery.jpg)
