@@ -101,17 +101,6 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 | **cmd.exe**    | DOS         | Windows       | Basic command execution                      |
 | **PowerShell** | .NET        | Windows/Linux | Object-based scripting, powerful admin tools |
 # Fourth question is (Linus Structure and commands)
-## +-------------------------+
-## |   Applications/Users    | ← Top-level programs (editors, browsers, scripts)
-## +-------------------------+
-## |     Shell (CLI/GUI)     | ← Interface between user and OS
-## +-------------------------+
-## |   System Libraries/API  | ← Support apps and shells with OS functions
-## +-------------------------+
-## |     Kernel (Core OS)    | ← Manages CPU, memory, devices, processes
-## +-------------------------+
-## |    Hardware (Physical)  | ← CPU, RAM, disk, peripherals
-## +-------------------------+
 # Linux Directory structure:
 ![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/d6e1532c1e00bc71e9710f3e77200ad5fe4a8c1c/linux-directory-structure.png)
 ## /              → Root directory
