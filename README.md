@@ -162,3 +162,4 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 | **Others**          | `man`                 | Show manual pages for commands | `man ls`                    |
 |                     | `echo`                | Print output                   | `echo "Hello Linux"`        |
 |                     | `history`             | Show command history           | `history`                   |
+# Then,I practice question in Lab
