@@ -231,10 +231,12 @@ They cantro who can do what with files and folders(directories)
 #### .Chmod444: chmod444 myself.sh(permission to read only for everywhere)
 ![copyImage](https://github.com/user-attachments/assets/d181d453-fe45-4930-b7e0-86d18a5700ff)
 .chmod644(permission to only owner.
-#### .chown:
+#### .chown: (Change the owner and grup owner of file directories)
+##### .Syntax: chown user:group file.txt
 ![copyImage](https://github.com/user-attachments/assets/b719c43c-2bc2-42e8-b371-9cf04a987c0f)
+##### .Result:
 
-
+##### .Permission: only the root and the current owner change the ownership using owner. change the group associated with file and dictionary.
 # Redirection:
 ## .Allow you to change input or output of combined
 ## .Echo hello > day3.txt
