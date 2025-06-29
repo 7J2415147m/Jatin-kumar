@@ -235,7 +235,7 @@ They cantro who can do what with files and folders(directories)
 ##### .Syntax: chown user:group file.txt
 ![copyImage](https://github.com/user-attachments/assets/b719c43c-2bc2-42e8-b371-9cf04a987c0f)
 ##### .Result:
-
+![copyImage](https://github.com/user-attachments/assets/b093d62a-1e2c-4f7d-8966-c68261195a6f)
 ##### .Permission: only the root and the current owner change the ownership using owner. change the group associated with file and dictionary.
 # Redirection:
 ## .Allow you to change input or output of combined
