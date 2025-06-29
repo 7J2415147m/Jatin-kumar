@@ -232,6 +232,8 @@ They cantro who can do what with files and folders(directories)
 ![copyImage](https://github.com/user-attachments/assets/d181d453-fe45-4930-b7e0-86d18a5700ff)
 .chmod644(permission to only owner.
 #### .chown:
+![copyImage](https://github.com/user-attachments/assets/b719c43c-2bc2-42e8-b371-9cf04a987c0f)
+
 
 # Redirection:
 ## .Allow you to change input or output of combined
