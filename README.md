@@ -265,6 +265,7 @@ They cantro who can do what with files and folders(directories)
 ## -> Input:
 ![file_0000000008dc622fa5362c2f7f58cf1b](https://github.com/user-attachments/assets/e5250b6b-0c50-4464-855a-585bbfe653aa)
 ## -> Output:
+![file_00000000b1d4622fae5a1644e0d6bb2a](https://github.com/user-attachments/assets/8a1cb961-b4bc-4bbc-bac1-777222dfab8e)
 
 
 
