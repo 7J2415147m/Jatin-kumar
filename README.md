@@ -154,7 +154,7 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 # Then,I practice question in Lab
 ![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/f1ad7f0d88bbc0f71eabbfdc32b11cb88b1ab685/Screenshot_20250627_073146_Gallery.jpg)
 ![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/c0c015c17b743c5ca2f2def769b6e1a9e403497d/Screenshot_20250627_073205_Gallery.jpg)
-# Day 3 (DATE :- 27-06-2025)
+# <<Day 3>> (DATE :- 27-06-2025)
 My third day in (training CSE 15 days)
 I studied about Bare Metal installation,Partioning schemes its Types,File and Dictionary Permission,Types of command,Redirection,Pipes its types,Shell Program
 # Bare Metal Installation :-
@@ -243,11 +243,18 @@ They cantro who can do what with files and folders(directories)
 2. Named Pipes - special file created with mkfilo and can be used for related communication
 # Shell Program:
 1. use of variables
-## Input:
+## -> Input:
 ![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/fe150e4be5c8ea58b4e110643c72e0e98eb79a25/Screenshot_20250629_135923_Samsung%20Internet.jpg)
+## -> Output:
+# Multiplication of any Number
+## -> Input:
 
+## -> Output:
 
+# Comparison of Two Numbers
+## -> Input:
 
+## -> Output:
 
 
 
