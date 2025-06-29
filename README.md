@@ -228,9 +228,10 @@ They cantro who can do what with files and folders(directories)
 | `chmod 644 file` | Owner: read/write, Group & Others: read only |
 | `chmod 777 file` | Everyone can read, write, and execute        |
 | `chmod 000 file` | No one can do anything (locked)              |
-#### .Chmod444:
+#### .Chmod444: chmod444 myself.sh(permission to read only for everywhere)
 ![copyImage](https://github.com/user-attachments/assets/d181d453-fe45-4930-b7e0-86d18a5700ff)
-
+.chmod644(permission to only owner.
+#### .chown:
 
 # Redirection:
 ## .Allow you to change input or output of combined
