@@ -260,6 +260,7 @@ They cantro who can do what with files and folders(directories)
 ## -> Input:
 ![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/3f21d1a60a9e67cf561862b19faa2899253aa759/file_000000004f2c622fbbd26cb6830cb637.png)
 ## -> Output:
+![file_000000000a7461fbadc8b95422b64b6c](https://github.com/user-attachments/assets/0f5e191f-caf7-4420-9340-fe83fa4d3238)
 
 # Comparison of Two Numbers
 ## -> Input:
