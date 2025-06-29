@@ -244,6 +244,7 @@ They cantro who can do what with files and folders(directories)
 # Shell Program:
 1. use of variables
 ## Input:
+![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/fe150e4be5c8ea58b4e110643c72e0e98eb79a25/Screenshot_20250629_135923_Samsung%20Internet.jpg)
 
 
 
