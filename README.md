@@ -258,7 +258,7 @@ They cantro who can do what with files and folders(directories)
 ![copyImage](https://github.com/user-attachments/assets/a9003b9c-842c-4847-a271-08128b389a74)
 # Multiplication of any Number
 ## -> Input:
-
+![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/3f21d1a60a9e67cf561862b19faa2899253aa759/file_000000004f2c622fbbd26cb6830cb637.png)
 ## -> Output:
 
 # Comparison of Two Numbers
