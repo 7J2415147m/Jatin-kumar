@@ -1,6 +1,6 @@
-# Traning cse 15 days
+# Traning cse 15 days(Name :- Jatin Kumar,Branch :- CSE(c2),CRN :- 2415147)
 In this I will share my experience and what I have learn in my 15 days training on daily basis
-# 《 Day 1 》
+# 《 Day 1 》(DATE :- 25-06-2025)
 Today Is My first day in (CSE 3rd sem Training)
 In first day of Training I learned about linux operating system,difference between linux and window and how to download Linux
 # * firstly I studied Linux operating system Introduction (like Linux is a free and open source OPERATING SYSTEM (OS) Kernel widely used as the foundation for various operating system,often referred to as distributions and It was discovered by (Linus Torvalds) in (1991)
@@ -52,7 +52,7 @@ Step3
 # SERVICE BASED COMPANIES
      -> Those that help customers and clients solve their problems
      -> Example :- TCS,Infosys,Wipro
-# 《 Day 2 》
+# 《 Day 2 》(DATE :- 26-06-2025)
 Today Is my second day of # (TRAINING CSE 15 DAYS)
 I studied today what is booting and its types,what is Kernel and it manages,what is shell its types and categories and Linux file structure and commands Then, I practice question 
 # first question is (What is Booting and its types)?
@@ -154,3 +154,99 @@ Ans :- -> A shell taker user commands and passes them to the OPERATING SYSTEM(OS
 # Then,I practice question in Lab
 ![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/f1ad7f0d88bbc0f71eabbfdc32b11cb88b1ab685/Screenshot_20250627_073146_Gallery.jpg)
 ![image Alt](https://github.com/7J2415147m/Jatin-kumar/blob/c0c015c17b743c5ca2f2def769b6e1a9e403497d/Screenshot_20250627_073205_Gallery.jpg)
+# Day 3 (DATE :- 27-06-2025)
+My third day in (training CSE 15 days)
+I studied about Bare Metal installation,Partioning schemes its Types,File and Dictionary Permission,Types of command,Redirection,Pipes its types,Shell Program
+# Bare Metal Installation :-
+1. Bare metal installation directly using USB(pen drive)
+2. Direct installation in computer hardware
+# Partioning Schemes :-
+1. Divide a hard disk into separate divison
+2. Each Section acys like a independent disk
+## Types of (Partioning Schemes) :-
+###
+| Partitioning Type | Easy Example                       | Good For                 |
+| ----------------- | ---------------------------------- | ------------------------ |
+| Horizontal        | Splitting rows into smaller tables | Big datasets             |
+| Vertical          | Splitting columns                  | Speeding up access       |
+| Range             | Group by date or number ranges     | Time or number data      |
+| Hash              | Spread using a formula             | Even distribution        |
+| List              | Group by specific values           | Categories               |
+| Composite         | Mix of two types                   | Complex needs            |
+| Key               | Based on a specific key            | Balanced storage         |
+| Round-Robin       | One by one in order                | Equal load without logic |
+# File and Dictionary Permission:-
+They cantro who can do what with files and folders(directories)
+## Types of Permissions :-
+###
+| Permission | Meaning (for folders)                   |
+| ---------- | --------------------------------------- |
+| `r`        | You can **see the file names** inside.  |
+| `w`        | You can **add/delete files** in it.     |
+| `x`        | You can **enter** (cd into) the folder. |
+# Types of Users:
+###
+| Permission | Meaning (for folders)                   |
+| ---------- | --------------------------------------- |
+| `r`        | You can **see the file names** inside.  |
+| `w`        | You can **add/delete files** in it.     |
+| `x`        | You can **enter** (cd into) the folder. |
+# Permission REpresentation:
+###
+| Symbol | Meaning            | Applies To           |
+| ------ | ------------------ | -------------------- |
+| `-`    | Regular file       | File type indicator  |
+| `d`    | Directory          | File type indicator  |
+| `r`    | Read permission    | Owner, Group, Others |
+| `w`    | Write permission   | Owner, Group, Others |
+| `x`    | Execute permission | Owner, Group, Others |
+###
+| Section   | Symbol | Meaning              |
+| --------- | ------ | -------------------- |
+| File Type | `-`    | Regular file         |
+| Owner     | `rwx`  | Read, write, execute |
+| Group     | `r-x`  | Read, execute only   |
+| Others    | `r--`  | Read only            |
+# Numeric (Octal) Representation:
+###
+| Symbolic | Binary | Octal | Meaning         |
+| -------- | ------ | ----- | --------------- |
+| `---`    | 000    | 0     | No permissions  |
+| `--x`    | 001    | 1     | Execute only    |
+| `-w-`    | 010    | 2     | Write only      |
+| `-wx`    | 011    | 3     | Write + execute |
+| `r--`    | 100    | 4     | Read only       |
+| `r-x`    | 101    | 5     | Read + execute  |
+| `rw-`    | 110    | 6     | Read + write    |
+| `rwx`    | 111    | 7     | All permissions |
+# Common Chmod Examples:
+###
+| Command          | What It Does                                 |
+| ---------------- | -------------------------------------------- |
+| `chmod 755 file` | Owner: all, Group & Others: read + execute   |
+| `chmod 700 file` | Only owner can read, write, execute          |
+| `chmod 644 file` | Owner: read/write, Group & Others: read only |
+| `chmod 777 file` | Everyone can read, write, and execute        |
+| `chmod 000 file` | No one can do anything (locked)              |
+# Redirection:
+## .Allow you to change input or output of combined
+## .Echo hello > day3.txt
+## .Redirect the message from hello to day3.txt
+## .Operations -> (standard output), >> <(standard input)
+# Pipes:
+## .Take output from one command and pass it to another command
+## .Particular file in folder
+## .Example: you have many files in folder but you want only file that ends with .sh
+## Types of Pipes:
+# .Pipes are two types
+1. Unnamed pipes - created using pipe()
+2. Named Pipes - special file created with mkfilo and can be used for related communication
+# Shell Program:
+1. use of variables
+## Input:
+
+
+
+
+
+
