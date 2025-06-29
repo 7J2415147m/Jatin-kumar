@@ -228,6 +228,8 @@ They cantro who can do what with files and folders(directories)
 | `chmod 644 file` | Owner: read/write, Group & Others: read only |
 | `chmod 777 file` | Everyone can read, write, and execute        |
 | `chmod 000 file` | No one can do anything (locked)              |
+#### .Chmod444:
+
 # Redirection:
 ## .Allow you to change input or output of combined
 ## .Echo hello > day3.txt
