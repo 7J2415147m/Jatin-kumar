@@ -290,10 +290,15 @@ It is a temporary memory of a computer where data and programs are stored only w
 ##### In Simple Wording:
 RAM is like a notebook where your computer writes things it is working on right now.
 Once the computer is turned off, everything in RAM is deleted.
+
 ->RAM is fast memory.
-->It stores data temporarily.
+
+->It stores data temporarily
+.
 ->More RAM = Faster computer performance.
+
 ->It helps in running apps, games, and software smoothly.
+
 ## Example:
 If you open a game or a browser, it loads into RAM so your computer can work on it quickly.
 ## Diagram of RAM(Random Access Memory):
@@ -304,8 +309,11 @@ It is a permanent memory in a computer that stores important instructions that d
 ##### In Simple Wording:
 -> ROM is like a book that the computer can only read, not write on.
 It stores the startup instructions (called BIOS or firmware) that help the computer turn on.
+
 ->ROM is non-volatile (data does not delete when power is off).
+
 ->It is read-only, so users cannot change its data easily.
+
 ->It stores essential programs needed to boot the system.
 ## Example:
 When you turn on your computer, the instructions in the ROM help it start properly.
