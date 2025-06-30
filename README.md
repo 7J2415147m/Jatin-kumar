@@ -268,7 +268,7 @@ They cantro who can do what with files and folders(directories)
 ![file_00000000b1d4622fae5a1644e0d6bb2a](https://github.com/user-attachments/assets/8a1cb961-b4bc-4bbc-bac1-777222dfab8e)
 # Day 4 ( Date :- 30-06-2025)
 Today Is My Fourth day in ( Training CSE 15 days)
-Today I studied about Hardware Introduction,RAM(Random Access Memory),ROM(Read Only Memory),Hardisk,Resistor,Specification of System,CD(Compact Disk),DVD( Digital versatile Disk),Floppy Disk,Power Supply,Cache Memory,Modulator,UPS(Uninterruptible Power Supply),PSU(Power Supply Unit),SMPS(Switch Mode Power Supply),LCD(Liquid Crystal Display),HDMI port,VGA,Satta Port,Cumos,Motherboard,NIC(Network Interface Card),Chipset and In Linux operating System(OS) I studied about (Command) Like Gzip Command,Wildcard(GLOBBING),Assignment :- Escape Character.
+Today I studied about Hardware Introduction,RAM(Random Access Memory),ROM(Read Only Memory),Hardisk,Resistor,Specification of System,CD(Compact Disk),DVD( Digital versatile Disk),Floppy Disk,Power Supply,Cache Memory,Modulator,UPS(Uninterruptible Power Supply),PSU(Power Supply Unit),SMPS(Switch Mode Power Supply),LCD(Liquid Crystal Display),HDMI port,Satta Port,Cumos,Motherboard,NIC(Network Interface Card),Chipset and In Linux operating System(OS) I studied about (Command) Like Gzip Command,Wildcard(GLOBBING),Assignment :- Escape Character.
 # -> Introduction(HARDWARE):
 #### -> Hardware means the physical parts of a computer that we can see and touch.
 It includes all the equipment and devices connected to the computer.
@@ -506,3 +506,22 @@ An HDMI port lets you connect your computer to a TV, monitor, or projector.It se
 If you want to show your laptop screen on a big TV, you can use an HDMI cable in the HDMI port.
 ## Diagram of HDMI Port:
 ![image](https://github.com/user-attachments/assets/5f451aa5-4693-42a7-ae41-276d351e0a9b)
+# What is Sata Port?
+#### -> SATA stands for Serial Advanced Technology Attachment.
+A SATA port is a connector on the motherboard used to connect storage devices like:
+Hard Disk Drives (HDD)
+Solid State Drives (SSD)
+DVD Drives
+##### In Simple Wording:
+A SATA port is like a bridge between the motherboard and storage devices.
+It helps in transferring data at high speed.
+-> Full form: Serial ATA (Advanced Technology Attachment)
+
+-> Faster and thinner than old IDE ports
+
+-> Common in all modern computers
+
+-> Allows hot swapping (you can remove the drive without shutting down)
+# Example:
+When you install a hard disk in your computer, you plug it into a SATA port using a SATA cable.
+
