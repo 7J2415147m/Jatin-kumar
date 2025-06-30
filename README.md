@@ -441,4 +441,5 @@ It gives power to the motherboard, hard disk, CPU, fan, etc.
 ## Example:
 If the power supply is not working, the computer won’t turn on, even if everything else is fine.
 ## Diagram of Power Supply:
+![image](https://github.com/user-attachments/assets/69f9ed60-9770-4373-8911-950b72c37923)
 
