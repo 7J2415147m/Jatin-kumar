@@ -405,5 +405,6 @@ A DVD is like a bigger cupboard than a CD.It looks the same as a CD but can stor
 
 -> DVD-RW / DVD+RW: You can write and erase data many times
 # Example:
+
 Movies and games used to come in DVDs.
 You can watch a full movie on a DVD.
