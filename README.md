@@ -426,5 +426,19 @@ In the 1990s, people used floppy disks to save documents or small programs and c
 ## Diagram of floppy disk:
 ![image](https://github.com/user-attachments/assets/449352a6-71cc-41a2-bb45-a2ec73013ee1)
 # What is Power Supply?
-#### -> 
+#### -> Power Supply is a part of the computer that provides electrical power to all other components.
+#### In Simple Wording:
+The power supply takes electricity from the wall socket and changes it into a form that the computer can use.
+It gives power to the motherboard, hard disk, CPU, fan, etc.
+
+->Also called SMPS (Switched Mode Power Supply)
+
+->Converts AC (Alternating Current) into DC (Direct Current)
+
+->Located inside the CPU cabinet
+
+->Has wires and connectors that go to different parts of the computer
+## Example:
+If the power supply is not working, the computer won’t turn on, even if everything else is fine.
+## Diagram of Power Supply:
 
