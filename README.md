@@ -383,3 +383,5 @@ A CD is like a memory disc where you can keep your data.It is read by a CD drive
 -> CD-RW – Can write and erase many times
 ## Example:
 You can play songs from a music CD in a CD player.Install software from a CD-ROM on your computer.
+![image](https://github.com/user-attachments/assets/189dfa55-b412-48c7-98cb-8ec222178520)
+
