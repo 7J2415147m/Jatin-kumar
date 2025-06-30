@@ -297,4 +297,5 @@ Once the computer is turned off, everything in RAM is deleted.
 ## Example:
 If you open a game or a browser, it loads into RAM so your computer can work on it quickly.
 ## Diagram of RAM(Random Access Memory):
+![image](https://github.com/user-attachments/assets/4eb61d1c-32c8-4ea3-bfd7-6413884076f4)
 
