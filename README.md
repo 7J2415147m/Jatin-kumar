@@ -319,4 +319,21 @@ It stores the startup instructions (called BIOS or firmware) that help the compu
 When you turn on your computer, the instructions in the ROM help it start properly.
 # Diagram of ROM(Read Only Memory):
 ![image](https://github.com/user-attachments/assets/93d596ed-8412-4866-a644-c79b8b9b4f53)
+# What is Hard disk?
+#### -> A Hard Disk (or Hard Drive) is a storage device used in computers to save data permanently.
+##### In Simple Wording:
+A hard disk is like a cupboard where all your computer files, photos, videos, software, and documents are stored.Even when the computer is turned off, the data in the hard disk stays safe.
 
+->It stores data permanently.
+
+->It is slower than RAM, but can hold much more data.
+
+->It is usually inside the CPU cabinet.
+
+->Data is stored in the form of magnetic patterns.
+## Types of Hard Disk:
+1. HDD (Hard Disk Drive) – has spinning disks, slower, cheaper.
+
+2. SSD (Solid State Drive) – no moving parts, faster, costlier.
+## Example:
+If you save a video today, it is saved on the hard disk, and you can open it tomorrow, next week, or even after a year.
