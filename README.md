@@ -409,3 +409,18 @@ Movies and games used to come in DVDs.
 You can watch a full movie on a DVD.
 # Diagram of DVD(Digiatl Versatile Disc):
 ![image](https://github.com/user-attachments/assets/6a0ac1f8-fe9b-486b-8923-7f1dfbc2d18f)
+# What is Floppy Disk?
+#### -> A Floppy Disk is a small, thin, and flexible magnetic storage device used in old computers to save and transfer small files.
+##### In Simple Wording:
+A floppy disk is like an old-style pen drive that stores very small amounts of data.It is made of a thin magnetic disk inside a plastic cover.
+
+-> Storage capacity: Very low (usually 1.44 MB)
+
+-> Shape: Square with a round disk inside
+
+-> Used with: Floppy disk drives (FDD)
+
+-> Now outdated – not used in modern computers
+## Example:
+In the 1990s, people used floppy disks to save documents or small programs and carry them to another computer.
+## Diagram of floppy disk:
