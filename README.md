@@ -599,6 +599,7 @@ gzip reduces the size of files (especially large text files) to save disk space 
 gzip notes.txt
 Result: notes.txt.gz is created, and notes.txt is removed.
 ![file_00000000fb6461f999501e70fceab9c5](https://github.com/user-attachments/assets/f70f9519-0325-4c74-bf08-ec808ba42e94)
-
+##### -> Wildcards Command(globbing) :- Match files without typing full names
+## Syntax:
 
 
