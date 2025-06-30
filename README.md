@@ -286,7 +286,15 @@ It includes all the equipment and devices connected to the computer.
 ![image](https://github.com/user-attachments/assets/febeb0fb-07d2-4ddf-b5da-25d4d4f62ead)
 # -> What is RAM(Random Access Memory)?
 #### -> RAM stands for Random Acess Memory.
-It is a Temporaray memory of
-
-
+It is a temporary memory of a computer where data and programs are stored only while the computer is ON.
+##### In Simple Wording:
+RAM is like a notebook where your computer writes things it is working on right now.
+Once the computer is turned off, everything in RAM is deleted.
+->RAM is fast memory.
+->It stores data temporarily.
+->More RAM = Faster computer performance.
+->It helps in running apps, games, and software smoothly.
+## Example:
+If you open a game or a browser, it loads into RAM so your computer can work on it quickly.
+## Diagram of RAM(Random Access Memory):
 
