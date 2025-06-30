@@ -442,4 +442,66 @@ It gives power to the motherboard, hard disk, CPU, fan, etc.
 If the power supply is not working, the computer won’t turn on, even if everything else is fine.
 ## Diagram of Power Supply:
 ![image](https://github.com/user-attachments/assets/69f9ed60-9770-4373-8911-950b72c37923)
+# What is Cache Memory?
+Cache Memory is a small, very fast memory inside or close to the CPU that stores frequently used data or instructions.
+##### In Simple Wording:
+Cache memory works like a helper for the CPU.It stores the most important or repeated data, so the CPU doesn’t have to fetch it from RAM again and again.
 
+-> Faster than RAM, but smaller in size
+
+-> Located inside or near the CPU
+
+-> Helps make the computer work faster and smoother
+
+-> Stores temporary data that CPU needs quickly
+## Types of Cache Memory:
+
+1. L1 Cache – Smallest and fastest (inside CPU)
+
+
+2. L2 Cache – Bigger but slower than L1
+
+
+3. L3 Cache – Larger and shared by cores
+## Example:
+If you're using a calculator app again and again, the CPU keeps its instructions in cache for quick use.
+# what is Modulator?
+A Modulator is an electronic device that converts digital signals into analog signals so that they can be sent through communication systems like cables, radio waves, or TV signals.
+##### In Simple Wording:
+A modulator mixes data with a carrier signal to send it over long distances.
+It helps in transmitting data through mediums like radio, telephone lines, or satellite.
+
+-> Used in telecommunication systems
+
+-> Converts signals for easy and safe transmission
+
+-> Works opposite to a demodulator (which receives and changes signals back)
+## Example:
+In a modem (used for internet), the modulator part sends your computer data through telephone lines by converting it into analog signals.
+# What is UPS(Uninterruptible Power Supply)?
+#### -> UPS stands for Uninterruptible Power Supply.
+It is a device that gives temporary power to a computer or other devices when the main electricity goes off.
+# What is PSU( Power Supply Unit)?
+#### -> PSU stands for Power Supply Unit.
+It is a hardware component in a computer that converts electricity from your wall socket into a usable form (DC power) for the computer's internal parts.
+# What is SMPS(Switch Mode Power Supply)?
+#### -> SMPS stands for Switched Mode Power Supply.
+It is a device that converts high-voltage AC (Alternating Current) from the power line into low-voltage DC (Direct Current), which is needed by computer parts like the motherboard, CPU, hard disk, etc.
+# What is HDMI Port?
+#### -> HDMI stands for High-Definition Multimedia Interface.
+An HDMI port is a socket on a computer, TV, or other device that is used to send high-quality audio and video through an HDMI cable.
+##### In Simple Wording:
+An HDMI port lets you connect your computer to a TV, monitor, or projector.It sends both sound and video using just one cable.
+
+-> Full form: High-Definition Multimedia Interface
+
+-> Carries both audio and video
+
+-> Used in: Computers, TVs, projectors, gaming consoles
+
+-> Provides HD (High Definition) quality
+
+-> Better than older ports like VGA (which only gives video)
+## Example:
+If you want to show your laptop screen on a big TV, you can use an HDMI cable in the HDMI port.
+## Diagram of HDMI Port:
