@@ -317,3 +317,6 @@ It stores the startup instructions (called BIOS or firmware) that help the compu
 ->It stores essential programs needed to boot the system.
 ## Example:
 When you turn on your computer, the instructions in the ROM help it start properly.
+# Diagram of ROM(Read Only Memory):
+![image](https://github.com/user-attachments/assets/93d596ed-8412-4866-a644-c79b8b9b4f53)
+
