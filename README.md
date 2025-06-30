@@ -600,6 +600,8 @@ gzip notes.txt
 Result: notes.txt.gz is created, and notes.txt is removed.
 ![file_00000000fb6461f999501e70fceab9c5](https://github.com/user-attachments/assets/f70f9519-0325-4c74-bf08-ec808ba42e94)
 ##### -> Wildcards Command(globbing) :- Match files without typing full names
-## Syntax:
-
+## Common Wildcards Command Table:
+![file_000000003fe061f9bbb582bd43fa8f33](https://github.com/user-attachments/assets/69d4d1e7-2381-468c-abd2-b4cd718ad209)
+## Diagram of Wildcard command(GLOBBING):
+![file_00000000158c61f9aa55c811de929242](https://github.com/user-attachments/assets/a092e04a-8c6e-47a0-bf7c-beb21f84a329)
 
