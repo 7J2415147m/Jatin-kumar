@@ -547,6 +547,9 @@ If this battery dies, your computer may forget the time and settings every time 
 ## Example:
 If your PC always shows the wrong time when you start it, the CMOS battery may be weak or dead.
 ## Diagram of CMOS?
+![image](https://github.com/user-attachments/assets/514f113c-5675-4a76-a590-30c0945be52b)
+# What is MotherBoard?
+
 
 
 
