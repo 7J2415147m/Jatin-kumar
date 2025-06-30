@@ -353,3 +353,5 @@ A resistor slows down the electric current, just like a speed breaker slows down
 -> Color bands on the resistor show its resistance value.
 ## Example:
 If an LED light needs low current, a resistor is used with it so the LED does not burn out
+![image](https://github.com/user-attachments/assets/8be72ccd-6e75-42d7-ad3c-9c8ae62a847e)
+
