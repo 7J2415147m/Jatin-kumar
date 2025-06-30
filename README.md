@@ -268,7 +268,7 @@ They cantro who can do what with files and folders(directories)
 ![file_00000000b1d4622fae5a1644e0d6bb2a](https://github.com/user-attachments/assets/8a1cb961-b4bc-4bbc-bac1-777222dfab8e)
 # Day 4 ( Date :- 30-06-2025)
 Today Is My Fourth day in ( Training CSE 15 days)
-Today I studied about Hardware Introduction,RAM(Random Access Memory),ROM(Read Only Memory),Hardisk,Resistor,Specification of System,DVD,CD,Floppy Disk,Power Supply,Cache Memory,Modulator,UPS(Uninterruptible Power Supply),PSU(Power Supply Unit),SMPS(Switch Mode Power Supply),LCD(Liquid Crystal Display),HDMI port,VGA,Satta Port,Cumos,Motherboard,NIC(Network Interface Card),Chipset and In Linux operating System(OS) I studied about (Command) Like Gzip Command,Wildcard(GLOBBING),Assignment :- Escape Character.
+Today I studied about Hardware Introduction,RAM(Random Access Memory),ROM(Read Only Memory),Hardisk,Resistor,Specification of System,CD(Compact Disk),DVD( Digital versatile Disk),Floppy Disk,Power Supply,Cache Memory,Modulator,UPS(Uninterruptible Power Supply),PSU(Power Supply Unit),SMPS(Switch Mode Power Supply),LCD(Liquid Crystal Display),HDMI port,VGA,Satta Port,Cumos,Motherboard,NIC(Network Interface Card),Chipset and In Linux operating System(OS) I studied about (Command) Like Gzip Command,Wildcard(GLOBBING),Assignment :- Escape Character.
 # -> Introduction(HARDWARE):
 #### -> Hardware means the physical parts of a computer that we can see and touch.
 It includes all the equipment and devices connected to the computer.
@@ -384,4 +384,26 @@ A CD is like a memory disc where you can keep your data.It is read by a CD drive
 ## Example:
 You can play songs from a music CD in a CD player.Install software from a CD-ROM on your computer.
 ![image](https://github.com/user-attachments/assets/189dfa55-b412-48c7-98cb-8ec222178520)
+# What is DVD(Digital Versatile Disk)?
+#### -> DVD stands for Digital Versatile Disc (or Digital Video Disc).
+It is a round plastic disc used to store more data than a CD, like movies, games, software, and more.
+##### In Simple Wording 
+A DVD is like a bigger cupboard than a CD.It looks the same as a CD but can store more data.
 
+-> Full form: Digital Versatile Disc
+
+-> Storage capacity:
+
+-> DVD = 4.7 GB (standard)
+
+-> CD = 700 MB
+## Types of DVDs:
+
+-> DVD-ROM: Data is already written (read-only)
+
+-> DVD-R / DVD+R: You can write data once
+
+-> DVD-RW / DVD+RW: You can write and erase data many times
+# Example:
+Movies and games used to come in DVDs.
+You can watch a full movie on a DVD.
