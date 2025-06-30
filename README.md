@@ -583,7 +583,7 @@ The chipset works like a traffic controller.It manages the flow of data between 
 2. Southbridge – Connects to slower devices like hard drives, USB, and sound cards
 # (For Linux Operating System):
 ## COMMANDS:
-
+###### -> Gzip Command :-  
 
 
 
