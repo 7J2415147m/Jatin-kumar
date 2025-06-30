@@ -424,3 +424,7 @@ A floppy disk is like an old-style pen drive that stores very small amounts of d
 ## Example:
 In the 1990s, people used floppy disks to save documents or small programs and carry them to another computer.
 ## Diagram of floppy disk:
+![image](https://github.com/user-attachments/assets/449352a6-71cc-41a2-bb45-a2ec73013ee1)
+# What is Power Supply?
+#### -> 
+
