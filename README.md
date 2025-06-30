@@ -584,6 +584,21 @@ The chipset works like a traffic controller.It manages the flow of data between 
 # (For Linux Operating System):
 ## COMMANDS:
 ###### -> Gzip Command :-  
+The gzip command is used to compress files to save space.
+##### Simple Explanation:
+gzip reduces the size of files (especially large text files) to save disk space and make them easier to share or transfer.It creates a .gz file (compressed file).
+## 👉 This will compress filename and create filename.gz
+## 👉 The original file will be removed by default.
+## Common gzip Commands:
+-> gzip file.txt	Compress file.txt to file.txt.gz
+-> gzip -k file.txt	Compress but keep original file
+-> gzip -d file.txt.gz	Decompress (unzip) the file
+-> gunzip file.txt.gz	Same as above (another way to decompress)
+-> gzip -r foldername/	Compress all files in a folder, recursively
+## Example:
+gzip notes.txt
+Result: notes.txt.gz is created, and notes.txt is removed.
+![file_00000000fb6461f999501e70fceab9c5](https://github.com/user-attachments/assets/f70f9519-0325-4c74-bf08-ec808ba42e94)
 
 
 
