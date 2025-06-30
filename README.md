@@ -566,6 +566,12 @@ USB ports
 
 Keyboard, mouse, etc.
 ## Diagram of Motherboard:
+![image](https://github.com/user-attachments/assets/75ac3b62-c343-4ebf-a980-c97655e7afb5)
+# What is Chipset?
+
+# (For Linux Operating System):
+## COMMANDS:
+
 
 
 
