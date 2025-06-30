@@ -298,4 +298,14 @@ Once the computer is turned off, everything in RAM is deleted.
 If you open a game or a browser, it loads into RAM so your computer can work on it quickly.
 ## Diagram of RAM(Random Access Memory):
 ![image](https://github.com/user-attachments/assets/4eb61d1c-32c8-4ea3-bfd7-6413884076f4)
-
+# What is ROM(Read Only Memory)?
+#### -> ROM stands for Read Only Memory.
+It is a permanent memory in a computer that stores important instructions that do not change and stay safe even when the computer is off.
+##### In Simple Wording:
+-> ROM is like a book that the computer can only read, not write on.
+It stores the startup instructions (called BIOS or firmware) that help the computer turn on.
+->ROM is non-volatile (data does not delete when power is off).
+->It is read-only, so users cannot change its data easily.
+->It stores essential programs needed to boot the system.
+## Example:
+When you turn on your computer, the instructions in the ROM help it start properly.
