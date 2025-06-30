@@ -272,31 +272,15 @@ Today I studied about Hardware Introduction,RAM(Random Access Memory),ROM(Read O
 # -> Introduction(HARDWARE):
 #### -> Hardware means the physical parts of a computer that we can see and touch.
 It includes all the equipment and devices connected to the computer.
-
-Examples of Hardware:
-
-Monitor – to see the output
-
-Keyboard – to type input
-
-Mouse – to move pointer and click
-
-CPU (Central Processing Unit) – the brain of the computer
-
-Printer, Scanner, Speaker, etc.
-
-
-Types of Hardware:
-
+## Examples of Hardware:
+-> Monitor – to see the output
+-> Keyboard – to type input
+->Mouse – to move pointer and click
+->CPU (Central Processing Unit) – the brain of the computer Printer, Scanner, Speaker, etc.
+## Types of Hardware:
 1. Input Devices – used to give data to the computer (e.g., keyboard, mouse)
-
-
 2. Output Devices – used to show the result (e.g., monitor, printer)
-
-
 3. Processing Devices – do the actual work (e.g., CPU)
-
-
 4. Storage Devices – save data (e.g., hard disk, pen drive)
 
 
