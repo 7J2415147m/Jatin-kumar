@@ -337,3 +337,7 @@ A hard disk is like a cupboard where all your computer files, photos, videos, so
 2. SSD (Solid State Drive) – no moving parts, faster, costlier.
 ## Example:
 If you save a video today, it is saved on the hard disk, and you can open it tomorrow, next week, or even after a year.
+## Diagram of Hard Disk:
+![image](https://github.com/user-attachments/assets/569080c9-cdea-4564-88ef-057edf32fb8f)
+
+
