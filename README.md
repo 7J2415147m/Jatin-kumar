@@ -270,7 +270,35 @@ They cantro who can do what with files and folders(directories)
 Today Is My Fourth day in ( Training CSE 15 days)
 Today I studied about Hardware Introduction,RAM(Random Access Memory),ROM(Read Only Memory),Hardisk,Resistor,Specification of System,DVD,CD,Floppy Disk,Power Supply,Cache Memory,Modulator,UPS(Uninterruptible Power Supply),PSU(Power Supply Unit),SMPS(Switch Mode Power Supply),LCD(Liquid Crystal Display),HDMI port,VGA,Satta Port,Cumos,Motherboard,NIC(Network Interface Card),Chipset and In Linux operating System(OS) I studied about (Command) Like Gzip Command,Wildcard(GLOBBING),Assignment :- Escape Character.
 # -> Introduction(HARDWARE):
-#### -> 
-# ->
+#### -> Hardware means the physical parts of a computer that we can see and touch.
+It includes all the equipment and devices connected to the computer.
+
+Examples of Hardware:
+
+Monitor – to see the output
+
+Keyboard – to type input
+
+Mouse – to move pointer and click
+
+CPU (Central Processing Unit) – the brain of the computer
+
+Printer, Scanner, Speaker, etc.
+
+
+Types of Hardware:
+
+1. Input Devices – used to give data to the computer (e.g., keyboard, mouse)
+
+
+2. Output Devices – used to show the result (e.g., monitor, printer)
+
+
+3. Processing Devices – do the actual work (e.g., CPU)
+
+
+4. Storage Devices – save data (e.g., hard disk, pen drive)
+
+
 
 
