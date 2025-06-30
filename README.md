@@ -524,4 +524,29 @@ It helps in transferring data at high speed.
 -> Allows hot swapping (you can remove the drive without shutting down)
 # Example:
 When you install a hard disk in your computer, you plug it into a SATA port using a SATA cable.
+# What is CMOS?
+#### -> CMOS stands for Complementary Metal-Oxide-Semiconductor.
+It is a small memory chip on the motherboard that stores important basic settings of the computer
+##### In Simple Wording:
+CMOS stores BIOS settings, like:
+Date and time
+Boot order
+Hardware configuration
+It works with the BIOS to start the computer properly.
+## CMOS Battery:
+A small battery (button cell) keeps CMOS working even when the computer is turned off.
+If this battery dies, your computer may forget the time and settings every time it restarts.
+
+-> CMOS stores system settings
+
+-> Needs a battery to keep working
+
+-> Found on the motherboard
+
+-> Works with BIOS to boot the system
+## Example:
+If your PC always shows the wrong time when you start it, the CMOS battery may be weak or dead.
+## Diagram of CMOS?
+
+
 
