@@ -549,7 +549,23 @@ If your PC always shows the wrong time when you start it, the CMOS battery may b
 ## Diagram of CMOS?
 ![image](https://github.com/user-attachments/assets/514f113c-5675-4a76-a590-30c0945be52b)
 # What is MotherBoard?
+The Motherboard is the main circuit board of a computer.
+It connects all the parts of a computer together like:
 
+CPU
+
+RAM
+
+Hard disk
+
+Graphics card
+
+Power supply
+
+USB ports
+
+Keyboard, mouse, etc.
+## Diagram of Motherboard:
 
 
 
