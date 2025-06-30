@@ -339,5 +339,17 @@ A hard disk is like a cupboard where all your computer files, photos, videos, so
 If you save a video today, it is saved on the hard disk, and you can open it tomorrow, next week, or even after a year.
 ## Diagram of Hard Disk:
 ![image](https://github.com/user-attachments/assets/569080c9-cdea-4564-88ef-057edf32fb8f)
+# What is a Resistor?
+#### -> A Resistor is a small electronic device used to control the flow of electric current in a circuit.
+##### In Simple Wording
+A resistor slows down the electric current, just like a speed breaker slows down traffic.It protects other parts in the circuit from too much current.
 
+-> It is used in almost all electronic circuits.
 
+-> It has two wires (legs) and comes in different colors and sizes.
+
+-> The value of resistance is measured in Ohms (Ω).
+
+-> Color bands on the resistor show its resistance value.
+## Example:
+If an LED light needs low current, a resistor is used with it so the LED does not burn out
