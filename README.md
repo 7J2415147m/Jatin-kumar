@@ -354,4 +354,32 @@ A resistor slows down the electric current, just like a speed breaker slows down
 ## Example:
 If an LED light needs low current, a resistor is used with it so the LED does not burn out
 ![image](https://github.com/user-attachments/assets/8be72ccd-6e75-42d7-ad3c-9c8ae62a847e)
+# Specification of a Computer System:
+##### In Simple Wording 
+System Specifications mean the details or features of a computer that tell us how powerful or capable it is.
+## Main Specifications:
 
+1. Processor (CPU)
+
+Example: Intel Core i5, AMD Ryzen 5
+It is the brain of the computer. Faster
+# What is CD?
+#### -> CD stands for Compact Disc.
+It is a round plastic disc used to store data like songs, videos, software, or documents.
+##### In Simple Wording 
+A CD is like a memory disc where you can keep your data.It is read by a CD drive using a laser beam.
+
+-> Full form: Compact Disc
+
+-> Shape: Round and flat (like a coin)
+
+-> Storage: Around 700 MB of data
+## Types of CD( Compact Disk):
+
+-> CD-ROM – Read Only (data can’t be changed)
+
+-> CD-R – Write once only
+
+-> CD-RW – Can write and erase many times
+## Example:
+You can play songs from a music CD in a CD player.Install software from a CD-ROM on your computer.
