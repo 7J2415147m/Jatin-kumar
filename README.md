@@ -505,3 +505,4 @@ An HDMI port lets you connect your computer to a TV, monitor, or projector.It se
 ## Example:
 If you want to show your laptop screen on a big TV, you can use an HDMI cable in the HDMI port.
 ## Diagram of HDMI Port:
+![image](https://github.com/user-attachments/assets/5f451aa5-4693-42a7-ae41-276d351e0a9b)
