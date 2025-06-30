@@ -266,6 +266,11 @@ They cantro who can do what with files and folders(directories)
 ![file_0000000008dc622fa5362c2f7f58cf1b](https://github.com/user-attachments/assets/e5250b6b-0c50-4464-855a-585bbfe653aa)
 ## -> Output:
 ![file_00000000b1d4622fae5a1644e0d6bb2a](https://github.com/user-attachments/assets/8a1cb961-b4bc-4bbc-bac1-777222dfab8e)
-
+# Day 4 ( Date :- 30-06-2025)
+Today Is My Fourth day in ( Training CSE 15 days)
+Today I studied about Hardware Introduction,RAM(Random Access Memory),ROM(Read Only Memory),Hardisk,Resistor,Specification of System,DVD,CD,Floppy Disk,Power Supply,Cache Memory,Modulator,UPS(Uninterruptible Power Supply),PSU(Power Supply Unit),SMPS(Switch Mode Power Supply),LCD(Liquid Crystal Display),HDMI port,VGA,Satta Port,Cumos,Motherboard,NIC(Network Interface Card),Chipset and In Linux operating System(OS) I studied about (Command) Like Gzip Command,Wildcard(GLOBBING),Assignment :- Escape Character.
+# -> Introduction(HARDWARE):
+#### -> 
+# ->
 
 
