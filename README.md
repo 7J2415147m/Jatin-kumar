@@ -568,7 +568,19 @@ Keyboard, mouse, etc.
 ## Diagram of Motherboard:
 ![image](https://github.com/user-attachments/assets/75ac3b62-c343-4ebf-a980-c97655e7afb5)
 # What is Chipset?
+A chipset is a group of small electronic chips on the motherboard that control how different parts of the computer talk to each other.
+##### Simple Explanation:
+The chipset works like a traffic controller.It manages the flow of data between the CPU, RAM, hard disk, USB ports, and other devices.
+-> Found on the motherboard
 
+-> Helps the CPU communicate with memory, storage, and input/output devices
+
+-> Made up of two main parts (in older systems):
+
+1. Northbridge – Connects CPU to high-speed devices like RAM and graphics card
+
+
+2. Southbridge – Connects to slower devices like hard drives, USB, and sound cards
 # (For Linux Operating System):
 ## COMMANDS:
 
