@@ -612,6 +612,7 @@ It is a specialized chip designed to perform many calculations at once, especial
 ##### In simple words its : Responsible for rendering graphics and visual output.
 
 ##### -> Problems include overheating, driver issues, screen tearing, or no display output
+## Diagram of GPU(graphics Processing Unit):
 ![AdobeStock_317385441-GPU-Hand-brandbar](https://github.com/user-attachments/assets/00c9db53-687b-4a6d-a86b-e70f0f6484d0)
 # PCU (Personal Computer unit):
 Installation & Hard Disk Preparation:
@@ -621,4 +622,6 @@ The first step of Partitinong is to organize the hard disk into: Primary (C: Dri
 Where the Operating System (Windows/Linux/Unix) is installed.
 
 Avoid storing personal/important files in C-Drive
+## Diagram of PCU(Personal Computer unit):
+![Diagram-of-a-personal-computer](https://github.com/user-attachments/assets/93e985a4-9afd-429b-ad42-00a2b4d625d3)
 
