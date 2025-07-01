@@ -624,4 +624,6 @@ Where the Operating System (Windows/Linux/Unix) is installed.
 Avoid storing personal/important files in C-Drive
 ## Diagram of PCU(Personal Computer unit):
 ![Diagram-of-a-personal-computer](https://github.com/user-attachments/assets/93e985a4-9afd-429b-ad42-00a2b4d625d3)
+### Why C-drive?
+Because , In case ,If Windows crashes, files in D,E,F-Drive are safer and can often be recovered. if we put files in same Drive then there will be Data loss if window get crashed.
 
