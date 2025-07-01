@@ -604,4 +604,6 @@ Result: notes.txt.gz is created, and notes.txt is removed.
 ![file_000000003fe061f9bbb582bd43fa8f33](https://github.com/user-attachments/assets/69d4d1e7-2381-468c-abd2-b4cd718ad209)
 ## Diagram of Wildcard command(GLOBBING):
 ![file_00000000158c61f9aa55c811de929242](https://github.com/user-attachments/assets/a092e04a-8c6e-47a0-bf7c-beb21f84a329)
-
+# 《 Day 5 》( DATE: 1-07-2025)
+My fifth day in (Training CSE 15 days)
+Today I studied about GPU(graphics Processing Unit),PCU(Personal Computer unit),C-drive,performance regression/slow performance,concept of optimization,defregmentation drivers,issues face while using printer,BSOD(blue screen of death)
