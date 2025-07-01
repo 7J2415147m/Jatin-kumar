@@ -609,6 +609,8 @@ My fifth day in (Training CSE 15 days)
 Today I studied about GPU(graphics Processing Unit),PCU(Personal Computer unit),C-drive,performance regression/slow performance,concept of optimization,defregmentation drivers,issues face while using printer,BSOD(blue screen of death)
 # GPU(Graphics Processing unit):
 It is a specialized chip designed to perform many calculations at once, especially for rendering graphics and handling parallel tasks. It was originally made for gaming and image rendering ,but now widely used in AI, data science, and video editing for super-fast processing It’s like having thousands of tiny workers inside your computer, all solving problems together.
-# In simple words its : Responsible for rendering graphics and visual output.
+##### In simple words its : Responsible for rendering graphics and visual output.
 
--> Problems include overheating, driver issues, screen tearing, or no display output
+##### -> Problems include overheating, driver issues, screen tearing, or no display output
+![AdobeStock_317385441-GPU-Hand-brandbar](https://github.com/user-attachments/assets/00c9db53-687b-4a6d-a86b-e70f0f6484d0)
+
