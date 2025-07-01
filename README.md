@@ -628,4 +628,32 @@ Avoid storing personal/important files in C-Drive
 Because , In case ,If Windows crashes, files in D,E,F-Drive are safer and can often be recovered. if we put files in same Drive then there will be Data loss if window get crashed.
 ## Diagram of C-drive:
 ![copyImage](https://github.com/user-attachments/assets/4ae261af-7ab9-42d0-a129-59ffc09196bc)
+#### Logical Drives (D:, E:, F:):
+######   Used for pictures, videos, documents, etc.
+###### performace regression /Slow performance :
+-> The speed of system slowed down due to some reasons like ; memory full, less RAM, Viruses.
+
+this issues can be resolved by using system efficiently , and use antiviruses .
+
+-> Keeping the files and Documents in Desktop also make system slow , so keep the files and folders out of Desktop.
+
+-> Taskbar: keep taskbar clean . close the apps which are not in use.
+
+-> Bookmarks: Booksmarks also slows down the speed . because system keep running them in background .
+
+-> Temporary files : The files that get created by default during web browsing are temporary files . These can also be the cause of slower performance.
+
+while web browsing some websitespermmision to accept cookies by which these temporary files are created.
+
+-> Malvares : keep your system updated and scan for viruses every month atleast.
+
+### Concept of Optimisation:
+Optimization means making something as good, efficient, or effective as possible.
+
+###### In the computer world, it often refers to:
+
+Speeding up software or hardware so it runs faster or uses fewer resources
+-> Improving algorithms to solve problems more efficiently
+
+-> Reducing energy use in devices or systems
 
