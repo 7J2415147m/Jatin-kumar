@@ -626,4 +626,6 @@ Avoid storing personal/important files in C-Drive
 ![Diagram-of-a-personal-computer](https://github.com/user-attachments/assets/93e985a4-9afd-429b-ad42-00a2b4d625d3)
 ### Why C-drive?
 Because , In case ,If Windows crashes, files in D,E,F-Drive are safer and can often be recovered. if we put files in same Drive then there will be Data loss if window get crashed.
+## Diagram of C-drive:
+![copyImage](https://github.com/user-attachments/assets/4ae261af-7ab9-42d0-a129-59ffc09196bc)
 
