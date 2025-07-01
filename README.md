@@ -656,4 +656,52 @@ Speeding up software or hardware so it runs faster or uses fewer resources
 -> Improving algorithms to solve problems more efficiently
 
 -> Reducing energy use in devices or systems
+## Diagram of Optimization:
+![copyImage](https://github.com/user-attachments/assets/3274d987-0bd3-4fd6-bbf9-a991c4f64fcc)
+#### DEFRAGMENTATION:
+Defragmentation is the process of reorganizing fragmented data on a hard disk so that related pieces are stored close together. This improves file access speed and overall system performance on traditional HDDs. It’s not needed for SSDs, which use a different method called TRIM.
+
+#### DRIVERS:
+Drivers are software that let the operating system communicate with hardware like printers, keyboards, or graphics cards. Without them, hardware won’t work properly.
+
+### ISSUES FACED WHILE USING PRINTER:
+Here’s a compact list of common printer issues and how to fix them:
+
+##### 1.Printer not printing
+
+-> Cause: Connectivity issues or outdated drivers
+-> Solution: Check cables/Wi-Fi, restart printer and PC, reinstall or update drivers
+##### 2.Paper jams
+
+-> Cause: Misaligned or poor-quality paper
+-> Solution: Gently remove jammed paper, align guides, use recommended paper type
+##### 3.Low ink warnings (even when ink remains)
+
+-> Cause: Inaccurate ink sensors
+-> Solution: Keep printing until quality drops; replace only when necessary
+##### 4.Slow printing
+
+-> Cause: High-resolution settings or complex documents
+-> Solution: Lower print quality settings, use draft mode for basic prints
+##### 5.Poor print quality
+
+-> Cause: Dirty print heads or low 
+-> Solution: Run print head cleaning utility, check ink levels
+##### 6.Printer offline
+
+-> Cause: Network or driver issues
+-> Solution: Reconnect to network, set printer as default, restart spooler service
+# BSOD(Blue Screen Of Death):
+It is used to indicate a system crash, in which the operating system reaches a critical condition where it can no longer operate safely.
+
+#### Common Causes of BSOD:
+
+##### 1.Hardware Failures:
+Faulty RAM, hard disk, or other internal components
+##### 2.Driver Issues:
+Outdated, incompatible, or corrupted device drivers
+##### 3.Corrupted System Files:
+System file corruption due to improper shutdowns, malware, or failed updates
+##### 4.Overheating or Power Issues:
+Inadequate cooling or power supply malfunctions
 
