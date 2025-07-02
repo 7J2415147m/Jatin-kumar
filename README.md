@@ -905,6 +905,7 @@ Symptom -> Explanation
 ## Diagram of Viruses:
 ![copyImage](https://github.com/user-attachments/assets/a22b6d58-2799-49d8-afb1-e7eaa7ee9187)
 ## Diagram of Malware:
+![copyImage](https://github.com/user-attachments/assets/eb803412-b828-46b5-a9a3-11563d2474d7)
 
 
 
