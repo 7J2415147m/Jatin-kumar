@@ -758,5 +758,63 @@ Sound, high-resolution graphics, and many background services do not run
 
 Most third-party software stays disabled
 ## Diagram of Safe mode:
+![copyImage](https://github.com/user-attachments/assets/20f6c12e-7d25-4d79-b9fa-78eccbeffa94)
+# What is OS Repair:
+#### -> OS Repair means fixing problems in the Operating System (OS) when it is not working properly.
+It helps to bring the system back to a normal working state without losing your important data.
+## Why is OS Repair Needed?
+
+You may need to repair your OS if:
+
+The system does not start (boot failure)
+
+The OS is slow, crashes, or freezes
+
+Files are missing or corrupted
+
+Viruses or malware have damaged system files
+
+Drivers or updates cause system errors
+## Common OS Repair Methods:
+
+1. Startup Repair
+– Fixes problems that stop Windows or Linux from booting properly.
+
+
+2. System Restore (Windows)
+– Restores your computer to an earlier working point.
+
+
+3. SFC /scannow Command (Windows)
+– Scans and repairs corrupted system files.
+
+
+4. Boot Repair Tool (Linux)
+– Fixes problems in the GRUB bootloader.
+
+
+5. Reset or Refresh PC (Windows)
+– Reinstalls Windows while keeping or deleting personal files.
+
+
+6. Reinstallation of OS
+– When all other methods fail, reinstall the OS from a bootable USB or DVD.
+## Tools Used in OS Repair:
+
+Platform	Tool Name
+
+Windows	Startup Repair, System Restore, SFC, Reset this PC
+Linux	Boot Repair, fsck, Live CD, Terminal Commands
+## Benefits of OS Repair:
+
+Solves software-related problems
+
+Saves time (no need for full format)
+
+Keeps personal files safe (in most cases)
+
+Makes system work smoothly again
+
+
 
 
