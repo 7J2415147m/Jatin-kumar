@@ -706,7 +706,7 @@ System file corruption due to improper shutdowns, malware, or failed updates
 Inadequate cooling or power supply malfunctions
 ## Diagram of BSOD(Blue Screen Of Death):
 ![copyImage](https://github.com/user-attachments/assets/1df79a21-280a-4f18-adcb-6f7305fe095a)
-# 《 Day 6 》(Date:- 2-07-2025):
+# 《 Day 6 》(Date: 2-07-2025):
 My sixth day in (Training CSE 15 days)
 Today,I studied about Safe mode,Recovery Tools,OS Repair,Viruses and Malware Symptoms and Basic Removal
 # What is Safe mode:
@@ -787,6 +787,8 @@ There are boot or update errors
 
 
 They help users solve these problems easily without needing expert help.
+## Types of Repair Tools:
+
 ## Examples:
 
 ##### In Windows:
@@ -809,7 +811,7 @@ Protects data
 
 Helps keep the computer fast and stable
 ## Diagram of Repair Tool:
-
+![copyImage](https://github.com/user-attachments/assets/173b6451-4700-472e-9963-3ccf20ff2fe9)
 # What is OS Repair:
 #### -> OS Repair means fixing problems in the Operating System (OS) when it is not working properly.
 It helps to bring the system back to a normal working state without losing your important data.
@@ -867,7 +869,41 @@ Keeps personal files safe (in most cases)
 Makes system work smoothly again
 ## Diagram of OS Repair:
 ![copyImage](https://github.com/user-attachments/assets/af8b9d35-01b3-42ca-94f9-7fdd36e630e7)
-# what is
+# what is Viruses and Malware Symptoms:
+#### -> A virus is a type of malware (harmful software) that can infect files, spread to other systems, and damage data.
+
+#### -> Malware means “malicious software” — any program made to harm, steal, or disrupt computer systems.
+
+
+## Types of Malware include:
+
+-> Virus – Attaches to files
+
+-> Worm – Spreads through networks
+
+-> Trojan – Disguised as useful software
+
+-> Spyware – Steals personal data
+
+-> Ransomware – Locks your files and asks for money
+## Symptoms of Virus and Malware Infection
+
+Below are common signs that your system may be infected:
+
+Symptom -> Explanation
+
+1. Slow computer performance -> System takes more time to open files or programs
+2. Unexpected pop-ups -> Ads or warnings appear suddenly, even when you’re not browsing
+3. System crashes or freezes -> The computer stops working or restarts without reason
+4. Unknown software installed -> New programs appear that you didn’t install
+5. Files are missing or corrupted -> Your personal files disappear or stop opening properly
+6. High network/data usage -> Internet is slow due to malware using it in background
+7. Disabled antivirus -> Security software stops working or closes automatically
+8. Strange emails sent automatically -> Your email account sends messages without your action
+9. Overheating or loud fan noise -> Malware uses system resources, causing overheating
+10. Mouse or keyboard acts weirdly	-> Cursor moves by itself or keys don’t type properly
+## Diagram of Viruses and Malware Symptoms:
+
 
 
 
