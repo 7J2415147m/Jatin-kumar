@@ -980,6 +980,37 @@ Follows standards like T568A or T568B for color arrangement
 7	White-Brown
 8	Brown
 ## Diagram of Rj45(Registered jack):
+![copyImage](https://github.com/user-attachments/assets/7fbc4c34-0b92-494e-a0e6-a3ca072a6535)
+# What is Cat 6:
+#### -> Cat 6 stands for Category 6 cable.
+It is a type of Ethernet/network cable used to connect computers, routers, switches, and other devices in a LAN (Local Area Network).
+## Main Features of Cat 6:
+
+-> Supports high-speed internet
+
+-> Speed: Up to 10 Gbps (Gigabits per second)
+
+-> Bandwidth: Up to 250 MHz
+
+-> Maximum length: 100 meters for regular use
+
+-> Better shielding than Cat 5 and Cat 5e
+
+-> Less interference and faster data transfer
+
+## Where is Cat 6 Used?
+
+Offices, schools, and homes for internet connection
+
+Data centers for high-speed networking
+
+#### Connecting devices like:
+–> Computers
+–> Laptops
+–> Routers
+–> Network switches
+## Diagram of Cat 6 cable:
+
 
 
 
