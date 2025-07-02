@@ -902,7 +902,9 @@ Symptom -> Explanation
 8. Strange emails sent automatically -> Your email account sends messages without your action
 9. Overheating or loud fan noise -> Malware uses system resources, causing overheating
 10. Mouse or keyboard acts weirdly	-> Cursor moves by itself or keys don’t type properly
-## Diagram of Viruses and Malware Symptoms:
+## Diagram of Viruses:
+![copyImage](https://github.com/user-attachments/assets/a22b6d58-2799-49d8-afb1-e7eaa7ee9187)
+## Diagram of Malware:
 
 
 
