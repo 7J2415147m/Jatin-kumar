@@ -708,7 +708,7 @@ Inadequate cooling or power supply malfunctions
 ![copyImage](https://github.com/user-attachments/assets/1df79a21-280a-4f18-adcb-6f7305fe095a)
 # 《 Day 6 》(Date: 2-07-2025):
 My sixth day in (Training CSE 15 days)
-Today,I studied about Safe mode,Recovery Tools,OS Repair,Viruses and Malware Symptoms and Basic Removal
+Today,I studied about Safe mode,Recovery Tools,OS Repair,Viruses and Malware Symptoms and Basic Removal,RJ45(Registered jack),Cat 6 wire
 # What is Safe mode:
 #### -> Safe Mode is a special way to start a computer with only the basic system files and drivers.
 It is mainly used to fix problems like system crashes, software errors, or viruses.
@@ -943,6 +943,43 @@ Network storage (NAS)
 CD/DVD
 # Diagram of Backup in computers:
 
+![copyImage](https://github.com/user-attachments/assets/68c88667-ad72-4293-883c-14cd59c87da7)
+# What is RJ45(Registered jack 45):
+#### -> RJ45 stands for Registered Jack 45.
+It is a standard connector used for network cables to connect computers, routers, switches, and other network devices.
+## Where is RJ45 Used?
+
+Used in LAN (Local Area Network) connections
+
+Found on Ethernet cables (used for internet and networking)
+
+Common in offices, homes, and data centers
+## RJ45 Connector Details:
+
+Has 8 metal pins inside
+
+Connects with a cable containing 8 color-coded wires
+
+Follows standards like T568A or T568B for color arrangement
+## Types of Cables Using RJ45:
+
+##### Cable Type.  ->	Use.
+
+##### Straight-through cable -> Connects computer to switch or router
+##### Crossover cable -> Connects two computers directly
+## Color Combination (T568B - Most Common):
+
+##### Pin No.	Color
+
+1	White-Orange
+2	Orange
+3	White-Green
+4	Blue
+5	White-Blue
+6	Green
+7	White-Brown
+8	Brown
+## Diagram of Rj45(Registered jack):
 
 
 
