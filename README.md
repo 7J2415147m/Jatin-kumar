@@ -1010,6 +1010,7 @@ Data centers for high-speed networking
 –> Routers
 –> Network switches
 ## Diagram of Cat 6 cable:
+![copyImage](https://github.com/user-attachments/assets/f2562e22-221d-4f98-8f96-155fd0c1c642)
 
 
 
