@@ -759,6 +759,57 @@ Sound, high-resolution graphics, and many background services do not run
 Most third-party software stays disabled
 ## Diagram of Safe mode:
 ![copyImage](https://github.com/user-attachments/assets/20f6c12e-7d25-4d79-b9fa-78eccbeffa94)
+# What is Repair Tools:
+#### -> A Repair Tool is a software program or utility that helps to fix problems in a computer system, such as:
+
+-> Operating system errors
+
+-> Software crashes
+
+-> Boot problems
+
+-> Corrupted files
+
+-> Virus damage
+
+Repair tools help to restore the system back to normal without needing a full reinstallation.
+## Why are Repair Tools Important?
+
+Repair tools are used when:
+
+The system is not working properly
+
+Files or settings are corrupted
+
+The system is slow or unresponsive
+
+There are boot or update errors
+
+
+They help users solve these problems easily without needing expert help.
+## Examples:
+
+##### In Windows:
+–> Startup Repair, SFC, System Restore
+
+##### In Linux:
+–> Boot Repair, fsck, Live CD Tools
+
+##### Others:
+–> Malwarebytes (malware removal)
+–> Recuva (file recovery)
+
+## Benefits of Repair Tools:
+
+Saves time – no need to reinstall the OS
+
+Fixes system errors easily
+
+Protects data
+
+Helps keep the computer fast and stable
+## Diagram of Repair Tool:
+
 # What is OS Repair:
 #### -> OS Repair means fixing problems in the Operating System (OS) when it is not working properly.
 It helps to bring the system back to a normal working state without losing your important data.
@@ -814,6 +865,9 @@ Saves time (no need for full format)
 Keeps personal files safe (in most cases)
 
 Makes system work smoothly again
+## Diagram of OS Repair:
+![copyImage](https://github.com/user-attachments/assets/af8b9d35-01b3-42ca-94f9-7fdd36e630e7)
+# what is
 
 
 
