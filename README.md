@@ -706,5 +706,57 @@ System file corruption due to improper shutdowns, malware, or failed updates
 Inadequate cooling or power supply malfunctions
 ## Diagram of BSOD(Blue Screen Of Death):
 ![copyImage](https://github.com/user-attachments/assets/1df79a21-280a-4f18-adcb-6f7305fe095a)
+# 《 Day 6 》(Date:- 2-07-2025):
+My sixth day in (Training CSE 15 days)
+Today,I studied about Safe mode,Recovery Tools,OS Repair,Viruses and Malware Symptoms and Basic Removal
+# What is Safe mode:
+#### -> Safe Mode is a special way to start a computer with only the basic system files and drivers.
+It is mainly used to fix problems like system crashes, software errors, or viruses.
+## Why is Safe Mode Used?
+
+Safe Mode helps you:
+
+Troubleshoot problems in the system
+
+Remove viruses or malware
+
+Uninstall faulty software or drivers
+
+Fix startup or display issues
+
+
+In Safe Mode, the computer skips loading non-essential programs, so it's easier to find and solve problems.
+## Types of Safe Mode (Windows):
+
+1. Safe Mode
+– Loads basic drivers (no internet)
+
+
+2. Safe Mode with Networking
+– Loads basic drivers + internet support
+
+
+3. Safe Mode with Command Prompt
+– Starts with a text interface instead of desktop
+## How to Enter Safe Mode (Windows):
+
+1. Restart your computer
+
+
+2. Press F8 (or Shift + F8) before Windows starts
+
+
+3. Choose a Safe Mode option from the menu
+## What Works in Safe Mode:
+
+Only basic functions (keyboard, mouse, screen)
+
+You can open Control Panel, run antivirus, uninstall apps, etc.
+## What Doesn’t Work in Safe Mode:
+
+Sound, high-resolution graphics, and many background services do not run
+
+Most third-party software stays disabled
+## Diagram of Safe mode:
 
 
