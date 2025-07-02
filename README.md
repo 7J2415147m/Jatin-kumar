@@ -906,6 +906,45 @@ Symptom -> Explanation
 ![copyImage](https://github.com/user-attachments/assets/a22b6d58-2799-49d8-afb1-e7eaa7ee9187)
 ## Diagram of Malware:
 ![copyImage](https://github.com/user-attachments/assets/eb803412-b828-46b5-a9a3-11563d2474d7)
+# What is backup in computer:
+#### -> A backup is a copy of your important data (like files, documents, photos, software, etc.)
+It is stored separately so that you can recover it if the original data is lost, deleted, or damaged.
+## Why Backup is Important:
+
+To protect data from accidental deletion
+
+To recover files after virus or malware attack
+
+In case of hardware failure (e.g., hard disk crash)
+
+During OS reinstallation or system reset
+
+Helps in case of theft, fire, or power failure
+## Types of Backup:
+
+##### Type	Meaning
+
+##### Full Backup	Complete copy of all data
+##### Incremental	Backs up only the data changed since the last backup
+##### Differential	Backs up all changes since the last full backup
+##### Cloud Backup	Backup saved online (e.g., Google Drive, OneDrive, Dropbox)
+##### External Backup	Backup saved on USB, external hard drive, or CD/DVD
+
+## Common Backup Devices:
+
+External hard drives
+
+Pen drives (USBs)
+
+Cloud storage (Google Drive, etc.)
+
+Network storage (NAS)
+
+CD/DVD
+# Diagram of Backup in computers:
+
+
+
 
 
 
