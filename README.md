@@ -1013,7 +1013,45 @@ Data centers for high-speed networking
 ![copyImage](https://github.com/user-attachments/assets/f2562e22-221d-4f98-8f96-155fd0c1c642)
 # 《Day 6》(Date: 03-07-2025)
 Today My seventh Day in (Training CSE 15 days)
-I studied about What are Network,Host,Client,Server,Mac address,DNS(Domain name sacle),Difference between Unicast,Broadcast,Multicast,What are IP Address its Types, what is IPV4 and IPV6,Classfull addressing,
+I studied about What are Network,Host,Client,Server,Mac address,DNS(Domain name sacle),Difference between Unicast,Broadcast,Multicast,What are IP Address its Types, what is IPV4 and IPV6,Classfull addressing,Subnetting,subnet Mask
+# What are Network:
+#### -> Network in computers means a group of connected computers and devices that can share information and resources like files, internet, printers, etc.
+
+##### Simple Definition:
+
+A network is a connection between two or more computers so they can communicate with each other.
+##### Uses of Network:
+-> Sharing files and data
+
+-> Accessing internet
+
+-> Sending emails
+
+-> Online gaming
+
+-> Cloud storage access
+# Host:
+A Host is any device (like a computer, mobile phone, or printer) that is connected to a network and has its own IP address.
+## In Simple Words:
+
+A host is a device that can send or receive data over a network.
+## Examples of Hosts:
+
+-> A computer connected to Wi-Fi
+
+-> A smartphone using mobile data
+
+-> A printer connected to a network
+
+-> A server on the internet
+## Important Points:
+
+Every host has a unique IP address.
+
+Hosts can be clients (like your phone or PC) or servers (like Google or YouTube servers).
+
+Hosts can store, send, or receive data.
+## Diagram of Host:
 
 
 
