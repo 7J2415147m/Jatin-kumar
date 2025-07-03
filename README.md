@@ -1035,6 +1035,7 @@ A Host is any device (like a computer, mobile phone, or printer) that is connect
 ## In Simple Words:
 
 A host is a device that can send or receive data over a network.
+# Networking Basics:
 ## Examples of Hosts:
 
 -> A computer connected to Wi-Fi
@@ -1052,6 +1053,8 @@ Hosts can be clients (like your phone or PC) or servers (like Google or YouTube 
 
 Hosts can store, send, or receive data.
 ## Diagram of Host:
+![copyImage](https://github.com/user-attachments/assets/1e867460-5766-4341-93e8-afa802df42d0)
+
 
 
 
