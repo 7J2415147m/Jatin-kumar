@@ -1158,7 +1158,36 @@ So your device can connect to YouTube.
 
 
 3. Your device connects to the correct server.
+# Difference between Unicast, Broadcast, Multicast:
+## Type	Meaning	Data Sent To	 Example
 
+#### Unicast:	One-to-One communication -> Single specific device	-> Sending a message to a friend only
+#### Broadcast:	One-to-All communication (in the network)	-> All devices in the same network	 -> Router sending ARP to all devices
+#### Multicast	-> One-to-Many communication (selected group)	-> A specific group of devices	-> Live video stream to subscribers
+# Classfull addressing:
+Classful addressing is an old method of assigning IP addresses. It divides the IP address space into 5 classes: A, B, C, D, and E based on the first few bits and range of IP addresses.
+## Classes of IP Address:
+
+### Class	Starting Bits	IP Range	Default Subnet Mask	Use
+
+A -> 0 -> 1.0.0.0 126.255.255.255	255.0.0.0 (or /8)	-> Large networks (e.g., ISPs)
+B. -> 10  -> 128.0.0.0 – 191.255.255.255	255.255.0.0 (or /16) -> Medium-sized networks
+C -> 110 -> 192.0.0.0 – 223.255.255.255	255.255.255.0 (or /24) -> Small networks
+D -> 1110 -> 224.0.0.0 – 239.255.255.255	-> Not defined	Multicasting
+E -> 1111 -> 240.0.0.0 – 255.255.255.255	-> Not defined	Reserved for future or research
+
+## Easy Explanation:
+
+Class A – Very big companies
+
+Class B – Medium companies
+
+Class C – Small companies
+
+Class D – Used for multicast (like online video streaming)
+
+Class E – Not used by the public (only for experiments)
+## Diagram of Classfull addressing:
 
 
 
