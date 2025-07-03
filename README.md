@@ -1011,7 +1011,9 @@ Data centers for high-speed networking
 –> Network switches
 ## Diagram of Cat 6 cable:
 ![copyImage](https://github.com/user-attachments/assets/f2562e22-221d-4f98-8f96-155fd0c1c642)
-
+# 《Day 6》(Date: 03-07-2025)
+Today My seventh Day in (Training CSE 15 days)
+I studied about What are Network,Host,Client,Server,Mac address,DNS(Domain name sacle),Difference between Unicast,Broadcast,Multicast,What are IP Address its Types, what is IPV4 and IPV6,Classfull addressing,
 
 
 
