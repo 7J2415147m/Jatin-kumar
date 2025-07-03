@@ -1013,7 +1013,7 @@ Data centers for high-speed networking
 ![copyImage](https://github.com/user-attachments/assets/f2562e22-221d-4f98-8f96-155fd0c1c642)
 # 《Day 6》(Date: 03-07-2025)
 Today My seventh Day in (Training CSE 15 days)
-I studied about What are Network,Host,Client,Server,Mac address,DNS(Domain name sacle),Difference between Unicast,Broadcast,Multicast,What are IP Address its Types, what is IPV4 and IPV6,Classfull addressing,Subnetting,subnet Mask
+I studied about What are Network,Host,Client,Server,Mac address,IP(Internet Protocol) and its Types,DNS(Domain name sacle),Difference between Unicast,Broadcast,Multicast,What are IP Address its Types, what is IPV4 and IPV6,Classfull addressing,Subnetting,subnet Mask
 # What are Network:
 #### -> Network in computers means a group of connected computers and devices that can share information and resources like files, internet, printers, etc.
 
@@ -1054,6 +1054,113 @@ Hosts can be clients (like your phone or PC) or servers (like Google or YouTube 
 Hosts can store, send, or receive data.
 ## Diagram of Host:
 ![copyImage](https://github.com/user-attachments/assets/1e867460-5766-4341-93e8-afa802df42d0)
+# What are IOT (Internet Of Things):
+#### -> IoT (Internet of Things) means a network of physical devices (like sensors, appliances, vehicles) that are connected to the internet and can collect, share, and exchange data without human help.
+
+
+#### Server:A Server is a powerful computer or system that provides services, data, or resources to other computers (called clients) over a network.
+# Mac Addresses:
+#### -> MAC Address stands for Media Access Control Address.
+It is a unique physical address given to every device's network card (NIC).
+## In Simple Words:
+
+A MAC address is like a permanent name tag for your device on a local network.
+## Example:
+
+### Computer: 00:1A:2B:3C:4D:5E
+### Mobile: A1:B2:C3:D4:E5:F6
+
+Every device has its own unique MAC address — it never changes.
+## Features:
+
+Given by the manufacturer
+
+Written in Hexadecimal (0–9, A–F)
+
+Usually in format: XX:XX:XX:XX:XX:XX
+### Why MAC Address is Important:
+
+Use	Description
+
+Device Identification	Finds specific devices in a network
+Network Security	Allows/block devices by MAC filtering
+Data Delivery	Sends data to correct device on a LAN
+# IP Address(Internet Protocol):
+Internet Protocol (IP) is a set of rules that helps devices communicate over the internet by giving each device a unique address called an IP address.
+## In Simple Words:
+
+IP is a rule that allows computers to send and receive data across the internet using IP addresses.
+#### IP Address:
+
+Just like your home has a postal address, your device has an IP address so data knows where to go.
+
+## Example:
+
+192.168.1.1 (IPv4)
+
+2001:0db8:85a3::8a2e:0370:7334 (IPv6)
+### Types of IP Address(Internet Protocol):
+-> IPV4(Internet Protocol Version 4)
+-> IPV6(Internet Protocol Version 6)
+#### -> Meaning of IPV4:
+IPv4 is the 4th version of Internet Protocol and the most commonly used to identify devices using 32-bit addresses.
+## In Simple Words:
+
+IPv4 gives a unique number (IP address) to each device on the internet so they can talk to each other.
+## Example of IPv4 Address:
+
+192.168.1.1
+10.0.0.5
+172.16.254.1
+
+Each IPv4 address has 4 numbers (0 to 255) separated by dots.
+Each IPv4 address has 4 numbers (0 to 255) separated by dots.
+
+## IPv4 Address Format:
+
+32 bits total
+
+Written as 4 numbers (called octets)
+
+Example: 192.168.0.1
+## Meaning of IPV6;
+IPv6 is the newest version of Internet Protocol, made to replace IPv4.
+It uses 128-bit addresses, allowing trillions of devices to connect to the internet.
+## In Simple Words:
+
+IPv6 is a new way to give unique IP addresses to devices, since IPv4 addresses are almost finished.
+
+## Example of IPv6 Address:
+
+2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+Or shortened:
+
+2001:db8:85a3::8a2e:370:7334
+# What are DNS(Domain Name System):
+#### -> DNS stands for Domain Name System.
+DNS is a system that translates website names (like www.google.com) into IP addresses (like 142.250.190.14) that computers use to find each other on the internet.
+### In Simple Words:
+
+DNS works like a phonebook of the internet.
+It helps your browser find the correct website when you type a name.
+##  Example:
+
+When you type 👉 www.youtube.com,
+DNS converts it to 👉 142.250.190.46 (IP address of YouTube's server)
+So your device can connect to YouTube.
+### How DNS Works:
+
+1. You type a website name.
+
+
+2. DNS finds its IP address.
+
+
+3. Your device connects to the correct server.
+
+
+
 
 
 
