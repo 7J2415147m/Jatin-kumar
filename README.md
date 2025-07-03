@@ -1188,6 +1188,63 @@ Class D – Used for multicast (like online video streaming)
 
 Class E – Not used by the public (only for experiments)
 ## Diagram of Classfull addressing:
+![copyImage](https://github.com/user-attachments/assets/85c19292-0d00-4995-90dc-8600e0337ff1)
+# what is Subnetting:
+Subnetting is the process of dividing a large network (IP address block) into smaller parts, called subnets.
+##  Definition:
+
+> Subnetting is a method used in networking to divide one IP network into smaller, more manageable sub-networks (subnets) to improve routing, security, and performance.
+
+## Why Subnetting is used?
+
+1. To use IP addresses more efficiently
+
+
+2. To reduce network traffic
+
+
+3. To improve network security
+
+
+4. To simplify management of large networks
+## Example:
+
+If you have a Class C network:
+📍 192.168.1.0/24 (254 usable hosts)
+
+You can split it into:
+
+Two subnets with /25 → 126 hosts each
+
+Four subnets with /26 → 62 hosts each
+
+And so on
+# What is subnet Mask:
+A subnet mask is a 32-bit number used in IP addressing to separate the network portion and the host portion of an IP address.
+## Definition:
+
+> A subnet mask helps devices identify which part of the IP address is the network and which part is the host (device).
+## Example:
+
+IP Address	192.168.1.10
+
+Subnet Mask	255.255.255.0
+
+
+192.168.1 → Network part
+
+.10 → Host part
+
+
+So, all devices with 192.168.1.X are in the same network.
+## Common Subnet Masks:
+
+### CIDR Notation	Subnet Mask	Number of Hosts
+
+/8	255.0.0.0	16 million+
+/16	255.255.0.0	65,534
+/24	255.255.255.0	254
+/30	255.255.255.252	2
 
 
 
