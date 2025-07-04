@@ -1247,7 +1247,7 @@ So, all devices with 192.168.1.X are in the same network.
 /32	255.255.255.255
 # 《 Day 8 》(Date: 03-07-2025)
 Today My 8th day in (Training CSE 15 days)
-I studied about Commands like(ping,trackroute,IPconfi/IFconfi),Testing Loopbavk with ping
+I studied about Commands like(ping,trackroute,IPconfi/IFconfi),Testing Loopbavk with ping,What is DHCP( Dynamic Host Configuration Protocal)
 # Commands:
 ## -> Ping:
 ### Definition:
@@ -1284,6 +1284,28 @@ IP: 127.0.0.1
 Hostname: localhost
 
 It does not go outside your computer.
+## Example:
+ping 127.0.0.1
+or
+ping localhost
+# What is DHCP(Dynamic Host Configuration Protocal):
+## Simple Definition:
+
+DHCP is a network protocol used to automatically assign IP addresses and other network settings (like gateway and DNS) to devices in a network.
+## Example:
+
+When you connect your phone or computer to Wi-Fi, DHCP automatically gives it an IP address, so you don’t have to set it manually.
+## What DHCP Provides:
+
+IP Address
+
+Subnet Mask
+
+Default Gateway
+
+DNS Server
+
+
 
 
 
