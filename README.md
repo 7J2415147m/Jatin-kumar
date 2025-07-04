@@ -1011,7 +1011,7 @@ Data centers for high-speed networking
 –> Network switches
 ## Diagram of Cat 6 cable:
 ![copyImage](https://github.com/user-attachments/assets/f2562e22-221d-4f98-8f96-155fd0c1c642)
-# 《Day 6》(Date: 03-07-2025)
+# 《Day 7》(Date: 03-07-2025)
 Today My seventh Day in (Training CSE 15 days)
 I studied about What are Network,Host,Client,Server,Mac address,IP(Internet Protocol) and its Types,DNS(Domain name sacle),Difference between Unicast,Broadcast,Multicast,What are IP Address its Types, what is IPV4 and IPV6,Classfull addressing,Subnetting,subnet Mask
 # What are Network:
@@ -1244,7 +1244,51 @@ So, all devices with 192.168.1.X are in the same network.
 /8	255.0.0.0	16 million+
 /16	255.255.0.0	65,534
 /24	255.255.255.0	254
-/30	255.255.255.252	2
+/32	255.255.255.255
+# 《 Day 8 》(Date: 03-07-2025)
+Today My 8th day in (Training CSE 15 days)
+I studied about Commands like(ping,trackroute,IPconfi/IFconfi),Testing Loopbavk with ping
+# Commands:
+## -> Ping:
+### Definition:
+Ping is a command used to check if a computer or server is reachable on a network.
+## Simple Meaning:
+
+Ping means "Are you there?"
+And if the other computer replies, it means "Yes, I am here."
+## Used For:
+
+1. To check internet connection
+
+
+2. To test speed and delay between two devices
+
+
+3. To find out if a website/server is working
+## Example:
+#### ping google.com
+### Ping output:
+#### Reply from 142.250.182.206: bytes=32 time=30ms TTL=118
+#### what is loopback:
+##### Definition:
+
+Loopback is a special IP address (127.0.0.1) used to test your own computer's network system.
+## Simple Words:
+
+### Loopback means:
+ “Computer, talk to yourself and check if your network is working!”
+### Loopback Address:
+
+IP: 127.0.0.1
+
+Hostname: localhost
+
+It does not go outside your computer.
+
+
+
+
+
 
 
 
