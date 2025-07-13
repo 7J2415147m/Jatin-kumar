@@ -1485,6 +1485,30 @@ These tags make the structure of a web page more readable and accessible.
 # Day 12 (Date: 10-07-2025)
 ### I make Webpage Using HTML(Hyper Text Markup Language):
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/992b809b-5726-41a7-87d9-733d253111fd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91b51df3-aeca-4860-970b-4f40379c61da" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c7a2d68-1cd4-4c44-ad13-87ffc2d35c1e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab5c2ac3-1dc3-4ab0-8eb8-09494d6406f3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9753a5d-260a-4ae2-b0d2-e83a3e894e5d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13ca0c98-c758-4e71-a751-c5ec304aced7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/323c6ada-6968-4aa4-8e6b-aa67be153591" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a71b976-affb-40fb-b3c9-34443c376e71" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9450b1c0-3816-43e5-8c48-6bddb81fdf10" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89f798cd-911a-4e13-8e73-028cd01eef68" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0905368-7d6b-40a5-ac20-9d857ef30351" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea9a5510-c954-49e8-8312-f02a1c11b986" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85d336cb-5fb8-4443-a3d3-e956d40c5d63" />
+#### And After this project I practice advance Project
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1073d7fb-58c6-41e7-b998-ce81b1c9086e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdce0e76-8a7c-4cdd-a99b-60e2cdf375e6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c7b80d8-76b5-46f5-b5f8-492d56bd921a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1f4a6d9-c3f7-41b2-a108-87c2c8ef7bf6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61e889a0-060e-41bd-93ad-29c0d5d80b32" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d320ec64-e3a8-4e91-a3f8-136d09782c37" />
+# Day 13 (Date: 11-07-2025)
+I Studied about Git,Features of git,How to use Git Hub
+
+
+
 
 
 
