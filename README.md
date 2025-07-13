@@ -1506,7 +1506,29 @@ These tags make the structure of a web page more readable and accessible.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d320ec64-e3a8-4e91-a3f8-136d09782c37" />
 # Day 13 (Date: 11-07-2025)
 I Studied about Git,Features of git,How to use Git Hub
+# What is git:
+Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency It helps you keep track of code changes, collaborate with other developers, and manage different versions of your codebase. -Git is used to tracking changes in the source code
+-The distributed version control tool is used for source code management
 
+-It allows multiple developers to work together
+
+-It supports non-linear development through its thousands of parallel branches
+# Features of GIT:
+-Tracks history
+
+-Free and open source
+
+-Supports non-linear development
+
+-Creates backups
+
+-Scalable
+
+-Supports collaboration
+
+-Branching is easier
+
+-Distributed development
 
 
 
