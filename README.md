@@ -1376,6 +1376,119 @@ A basic HTML document follows a well-defined structure made up of elements (tags
 
 # 《Day 10》(Date: 8-07-2025)
 I studied about HTML(Hyper Text MarkUp Language) Tags;
+# HTML(Hyper Text MarkUP Language):
+## Basic Structure Tags:
+### | Tag               | Description                                      |
+| ----------------- | ------------------------------------------------ |
+| `<!DOCTYPE html>` | Declares the HTML version (e.g., HTML5)          |
+| `<html>`          | Root of the HTML document                        |
+| `<head>`          | Contains meta-information (not visible to users) |
+| `<title>`         | Sets the browser tab title                       |
+| `<body>`          | Contains the content displayed on the page       |
+## Text Formatting Tags:
+### | Tag                | Description                                         |
+| ------------------ | --------------------------------------------------- |
+| `<h1>` to `<h6>`   | Headings from largest (`<h1>`) to smallest (`<h6>`) |
+| `<p>`              | Paragraph                                           |
+| `<br>`             | Line break (no closing tag)                         |
+| `<hr>`             | Horizontal line (no closing tag)                    |
+| `<b>` / `<strong>` | Bold text                                           |
+| `<i>` / `<em>`     | Italicized text                                     |
+| `<u>`              | Underlined text                                     |
+| `<small>`          | Smaller text                                        |
+## Lists:
+### | Tag    | Description    |
+| ------ | -------------- |
+| `<ul>` | Unordered list |
+| `<ol>` | Ordered list   |
+| `<li>` | List item      |
+## Links And Images:
+### | Tag                                       | Description          |
+| ----------------------------------------- | -------------------- |
+| `<a href="URL">`                          | Hyperlink            |
+| `<img src="image.jpg" alt="description">` | Image (self-closing) |
+## Tables:
+### | Tag       | Description     |
+| --------- | --------------- |
+| `<table>` | Table container |
+| `<tr>`    | Table row       |
+| `<th>`    | Table header    |
+| `<td>`    | Table cell/data |
+## Forms And Input:
+### | Tag          | Description                              |
+| ------------ | ---------------------------------------- |
+| `<form>`     | Form container                           |
+| `<input>`    | Input field (e.g., text, checkbox, etc.) |
+| `<textarea>` | Multiline text input                     |
+| `<button>`   | Clickable button                         |
+| `<label>`    | Describes an input field                 |
+## Other Useful Tags:
+### | Tag        | Description              |
+| ---------- | ------------------------ |
+| `<div>`    | Generic block container  |
+| `<span>`   | Generic inline container |
+| `<script>` | JavaScript code          |
+| `<style>`  | CSS styling              |
+# Day 11 (Date: 9-07-2025)
+I studied about Semantic HTML and its Benefits
+# Semantic HTML and its benefits:
+Semantic HTML uses HTML5 tags that clearly describe the meaning of the content they contain, both to the browser and to developers. Instead of using generic tags like <div> and <span>, semantic HTML uses elements like:
+
+#### .<header>
+
+#### . <nav>
+
+#### . <main>
+
+#### . <article>
+
+#### . <section>
+
+#### . <aside>
+
+#### . <footer>
+
+These tags make the structure of a web page more readable and accessible.
+
+## Examples of Semantic vs Non-Semantic HTML:
+### Non-Semantic:
+#### <div id="header"></div>
+<div id="nav"></div>
+<div id="main"></div>
+<div id="footer"></div>
+
+### Semantic:
+#### <header></header>
+<nav></nav>
+<main></main>
+<footer></footer>
+
+## Benefits of Semantic HTML:
+### | Benefit                       | Description                                                          |
+| ----------------------------- | -------------------------------------------------------------------- |
+|  **Improves Accessibility**  | Screen readers and assistive tech can better interpret the structure |
+|  **SEO-Friendly**            | Search engines understand the content better, improving rankings     |
+|  **Better Code Readability** | Easier for developers to read, maintain, and debug                   |
+|  **Improved Consistency**    | Encourages cleaner, more organized markup                            |
+|  **Future-Proofing**         | Aligns with modern web standards and browser optimizations           |
+## Common Semantic HTML Elements:
+### | Tag                         | Purpose                                |
+| --------------------------- | -------------------------------------- |
+| `<header>`                  | Top of a page or section               |
+| `<nav>`                     | Navigation links                       |
+| `<main>`                    | Main content (one per page)            |
+| `<section>`                 | Thematic grouping of content           |
+| `<article>`                 | Independent content (e.g., blog post)  |
+| `<aside>`                   | Related side content (ads, tips, etc.) |
+| `<footer>`                  | Footer of a page or section            |
+| `<figure>` / `<figcaption>` | Image with a caption                   |
+# Day 12 (Date: 10-07-2025)
+### I make Webpage Using HTML(Hyper Text Markup Language):
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/992b809b-5726-41a7-87d9-733d253111fd" />
+
+
+
+
 
 
 
