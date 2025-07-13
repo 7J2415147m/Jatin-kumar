@@ -1563,7 +1563,8 @@ it opens the editor where data can be enterred.
 #### git commit -m
 use to add file to the origial repository.
 <img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/25626cca-0b31-457f-a30c-352761037aa2" />
-the file is get added to the repository
+##### the file is get added to the repository
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0d55aac-ee60-4e48-a53d-538ae514ca03" />
 
 
 
