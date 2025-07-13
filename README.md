@@ -1529,6 +1529,7 @@ Git is a distributed version control system designed to handle everything from s
 -Branching is easier
 
 -Distributed development
+<img width="276" height="182" alt="image" src="https://github.com/user-attachments/assets/0dc40e3c-f686-4e0d-818e-b7564fe23883" />
 
 
 
