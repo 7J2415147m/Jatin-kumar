@@ -1539,6 +1539,7 @@ Step 1. Install Git Download and install Git from Git's official website. Follow
 Step 2. Configure Git Set up your name and email to identify your commits:
 
 Step 3. Create a New Repository To start a new project, create a new directory and initialize it as a Git repository:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bfe49ec1-7a35-4912-b11a-50b1c84cf298" />
 
 now open the git app and run the command git clone link of your repository
 
