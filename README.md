@@ -1542,7 +1542,8 @@ Step 3. Create a New Repository To start a new project, create a new directory a
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bfe49ec1-7a35-4912-b11a-50b1c84cf298" />
 
 now open the git app and run the command git clone link of your repository
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ea3a401-6de6-4432-b948-eed96c3d1814" />
+
 Step 4. Clone an Existing Repository To contribute to an existing project, clone a repository from GitHub:
 #### Clone command:
 this command is used to create the clone of original repository.
