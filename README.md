@@ -1422,8 +1422,8 @@ I studied about HTML(Hyper Text MarkUp Language) Tags;
 | `<textarea>` | Multiline text input                     |
 | `<button>`   | Clickable button                         |
 | `<label>`    | Describes an input field                 |
-## Other Useful Tags:
-### | Tag        | Description              |
+# Other Useful Tags:
+## | Tag        | Description              |
 | ---------- | ------------------------ |
 | `<div>`    | Generic block container  |
 | `<span>`   | Generic inline container |
@@ -1513,7 +1513,7 @@ Git is a distributed version control system designed to handle everything from s
 -It allows multiple developers to work together
 
 -It supports non-linear development through its thousands of parallel branches
-# Features of GIT:
+### Features of GIT:
 -Tracks history
 
 -Free and open source
