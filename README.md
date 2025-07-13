@@ -1374,7 +1374,8 @@ A basic HTML document follows a well-defined structure made up of elements (tags
   </body>
 </html>
 
-# 《Day 10》(Date: 8-07-2025)
+
+#《Day 10》(Date: 8-07-2025)
 I studied about HTML(Hyper Text MarkUp Language) Tags;
 # HTML(Hyper Text MarkUP Language):
 ## Basic Structure Tags:
