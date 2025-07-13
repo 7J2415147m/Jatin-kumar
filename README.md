@@ -1530,7 +1530,15 @@ Git is a distributed version control system designed to handle everything from s
 
 -Distributed development
 <img width="276" height="182" alt="image" src="https://github.com/user-attachments/assets/0dc40e3c-f686-4e0d-818e-b7564fe23883" />
+# How to use github?
+Github is very easy to use website . it is used by almost every coder .
 
+### Getting Started with Git
+Step 1. Install Git Download and install Git from Git's official website. Follow the instructions for your operating system.
+
+Step 2. Configure Git Set up your name and email to identify your commits:
+
+Step 3. Create a New Repository To start a new project, create a new directory and initialize it as a Git repository:
 
 
 
