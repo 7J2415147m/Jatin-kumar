@@ -1540,7 +1540,7 @@ Step 2. Configure Git Set up your name and email to identify your commits:
 
 Step 3. Create a New Repository To start a new project, create a new directory and initialize it as a Git repository:
 
-
+now open the git app and run the command git clone link of your repository
 
 
 
