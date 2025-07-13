@@ -1543,14 +1543,26 @@ Step 3. Create a New Repository To start a new project, create a new directory a
 
 now open the git app and run the command git clone link of your repository
 ![Uploading image.png…]()
+Step 4. Clone an Existing Repository To contribute to an existing project, clone a repository from GitHub:
+#### Clone command:
+this command is used to create the clone of original repository.
+<img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/08f8dfbd-5129-4f5c-abce-631963823f2f" />
+Step 5. Track Changes Add files to your repository and track changes:
+#### touch cmmand:
+to create a file touch command is used syntax: touch filename.
+<img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/630bd4f2-03e7-4f2c-8852-7f4c7de24cab" />
+#### GIT STATUS:
+this command is used to just check the status of the repository.
+<img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/25c88f55-2d1d-47ff-be58-4a26bd716aea" />
+#### nano command:
+use to enter data in to the file .
+<img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/a65a8278-5540-49fa-903e-e9bd9a49b522" />
+it opens the editor where data can be enterred.
 
-
-
-
-
-
-
-
+#### git commit -m
+use to add file to the origial repository.
+<img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/25626cca-0b31-457f-a30c-352761037aa2" />
+the file is get added to the repository
 
 
 
