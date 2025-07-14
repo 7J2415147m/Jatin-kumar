@@ -1360,22 +1360,7 @@ In complex layouts, the browser may break the page into layers and combine them 
 This is the final visual output you see.
 # Structure of HTML(Hyper Text MarkUp Language):
 A basic HTML document follows a well-defined structure made up of elements (tags). Here's the standard structure:
-### <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My Web Page</title>
-    <!-- Add CSS, meta tags, and scripts here -->
-  </head>
-  <body>
-    <h1>Welcome!</h1>
-    <p>This is a sample HTML page.</p>
-    <!-- Add more content like images, links, lists, etc. -->
-  </body>
-</html>
-
-
-#《Day 10》(Date: 8-07-2025)
+# 《Day 10》(Date: 8-07-2025)
 I studied about HTML(Hyper Text MarkUp Language) Tags;
 # HTML(Hyper Text MarkUP Language):
 ## Basic Structure Tags:
