@@ -1350,7 +1350,8 @@ A basic HTML document follows a well-defined structure made up of elements (tags
 I studied about HTML(Hyper Text MarkUp Language) Tags;
 # HTML(Hyper Text MarkUP Language):
 ## Basic Structure Tags:
-#### | Tag               | Description                                      |
+#### 
+| Tag               | Description                                      |
 | ----------------- | ------------------------------------------------ |
 | `<!DOCTYPE html>` | Declares the HTML version (e.g., HTML5)          |
 | `<html>`          | Root of the HTML document                        |
@@ -1358,7 +1359,8 @@ I studied about HTML(Hyper Text MarkUp Language) Tags;
 | `<title>`         | Sets the browser tab title                       |
 | `<body>`          | Contains the content displayed on the page       |
 ## Text Formatting Tags:
-#### | Tag                | Description                                         |
+####
+| Tag                | Description                                         |
 | ------------------ | --------------------------------------------------- |
 | `<h1>` to `<h6>`   | Headings from largest (`<h1>`) to smallest (`<h6>`) |
 | `<p>`              | Paragraph                                           |
@@ -1369,25 +1371,29 @@ I studied about HTML(Hyper Text MarkUp Language) Tags;
 | `<u>`              | Underlined text                                     |
 | `<small>`          | Smaller text                                        |
 ## Lists:
-#### | Tag    | Description    |
+#### 
+| Tag    | Description    |
 | ------ | -------------- |
 | `<ul>` | Unordered list |
 | `<ol>` | Ordered list   |
 | `<li>` | List item      |
 ## Links And Images:
-#### | Tag                                       | Description          |
+#### 
+| Tag                                       | Description          |
 | ----------------------------------------- | -------------------- |
 | `<a href="URL">`                          | Hyperlink            |
 | `<img src="image.jpg" alt="description">` | Image (self-closing) |
 ## Tables:
-#### | Tag       | Description     |
+#### 
+| Tag       | Description     |
 | --------- | --------------- |
 | `<table>` | Table container |
 | `<tr>`    | Table row       |
 | `<th>`    | Table header    |
 | `<td>`    | Table cell/data |
 ## Forms And Input:
-#### | Tag          | Description                              |
+####
+| Tag          | Description                              |
 | ------------ | ---------------------------------------- |
 | `<form>`     | Form container                           |
 | `<input>`    | Input field (e.g., text, checkbox, etc.) |
@@ -1395,7 +1401,8 @@ I studied about HTML(Hyper Text MarkUp Language) Tags;
 | `<button>`   | Clickable button                         |
 | `<label>`    | Describes an input field                 |
 # Other Useful Tags:
-#### | Tag        | Description              |
+#### 
+| Tag        | Description              |
 | ---------- | ------------------------ |
 | `<div>`    | Generic block container  |
 | `<span>`   | Generic inline container |
@@ -1436,14 +1443,16 @@ These tags make the structure of a web page more readable and accessible.
 <footer></footer>
 
 ## Benefits of Semantic HTML:
-#### | Benefit                       | Description                                                          |
+####
+| Benefit                       | Description                                                          |
 |  **Improves Accessibility**  | Screen readers and assistive tech can better interpret the structure |
 |  **SEO-Friendly**            | Search engines understand the content better, improving rankings     |
 |  **Better Code Readability** | Easier for developers to read, maintain, and debug                   |
 |  **Improved Consistency**    | Encourages cleaner, more organized markup                            |
 |  **Future-Proofing**         | Aligns with modern web standards and browser optimizations           |
 ## Common Semantic HTML Elements:
-#### | Tag                         | Purpose                                |
+###
+| Tag                         | Purpose                                |
 | `<header>`                  | Top of a page or section               |
 | `<nav>`                     | Navigation links                       |
 | `<main>`                    | Main content (one per page)            |
