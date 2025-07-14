@@ -1350,7 +1350,7 @@ A basic HTML document follows a well-defined structure made up of elements (tags
 I studied about HTML(Hyper Text MarkUp Language) Tags;
 # HTML(Hyper Text MarkUP Language):
 ## Basic Structure Tags:
-### | Tag               | Description                                      |
+#### | Tag               | Description                                      |
 | ----------------- | ------------------------------------------------ |
 | `<!DOCTYPE html>` | Declares the HTML version (e.g., HTML5)          |
 | `<html>`          | Root of the HTML document                        |
@@ -1358,7 +1358,7 @@ I studied about HTML(Hyper Text MarkUp Language) Tags;
 | `<title>`         | Sets the browser tab title                       |
 | `<body>`          | Contains the content displayed on the page       |
 ## Text Formatting Tags:
-### | Tag                | Description                                         |
+#### | Tag                | Description                                         |
 | ------------------ | --------------------------------------------------- |
 | `<h1>` to `<h6>`   | Headings from largest (`<h1>`) to smallest (`<h6>`) |
 | `<p>`              | Paragraph                                           |
@@ -1369,25 +1369,25 @@ I studied about HTML(Hyper Text MarkUp Language) Tags;
 | `<u>`              | Underlined text                                     |
 | `<small>`          | Smaller text                                        |
 ## Lists:
-### | Tag    | Description    |
+#### | Tag    | Description    |
 | ------ | -------------- |
 | `<ul>` | Unordered list |
 | `<ol>` | Ordered list   |
 | `<li>` | List item      |
 ## Links And Images:
-### | Tag                                       | Description          |
+#### | Tag                                       | Description          |
 | ----------------------------------------- | -------------------- |
 | `<a href="URL">`                          | Hyperlink            |
 | `<img src="image.jpg" alt="description">` | Image (self-closing) |
 ## Tables:
-### | Tag       | Description     |
+#### | Tag       | Description     |
 | --------- | --------------- |
 | `<table>` | Table container |
 | `<tr>`    | Table row       |
 | `<th>`    | Table header    |
 | `<td>`    | Table cell/data |
 ## Forms And Input:
-### | Tag          | Description                              |
+#### | Tag          | Description                              |
 | ------------ | ---------------------------------------- |
 | `<form>`     | Form container                           |
 | `<input>`    | Input field (e.g., text, checkbox, etc.) |
@@ -1395,7 +1395,7 @@ I studied about HTML(Hyper Text MarkUp Language) Tags;
 | `<button>`   | Clickable button                         |
 | `<label>`    | Describes an input field                 |
 # Other Useful Tags:
-## | Tag        | Description              |
+#### | Tag        | Description              |
 | ---------- | ------------------------ |
 | `<div>`    | Generic block container  |
 | `<span>`   | Generic inline container |
@@ -1436,16 +1436,14 @@ These tags make the structure of a web page more readable and accessible.
 <footer></footer>
 
 ## Benefits of Semantic HTML:
-### | Benefit                       | Description                                                          |
-| ----------------------------- | -------------------------------------------------------------------- |
+#### | Benefit                       | Description                                                          |
 |  **Improves Accessibility**  | Screen readers and assistive tech can better interpret the structure |
 |  **SEO-Friendly**            | Search engines understand the content better, improving rankings     |
 |  **Better Code Readability** | Easier for developers to read, maintain, and debug                   |
 |  **Improved Consistency**    | Encourages cleaner, more organized markup                            |
 |  **Future-Proofing**         | Aligns with modern web standards and browser optimizations           |
 ## Common Semantic HTML Elements:
-### | Tag                         | Purpose                                |
-| --------------------------- | -------------------------------------- |
+#### | Tag                         | Purpose                                |
 | `<header>`                  | Top of a page or section               |
 | `<nav>`                     | Navigation links                       |
 | `<main>`                    | Main content (one per page)            |
@@ -1476,7 +1474,8 @@ These tags make the structure of a web page more readable and accessible.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1f4a6d9-c3f7-41b2-a108-87c2c8ef7bf6" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61e889a0-060e-41bd-93ad-29c0d5d80b32" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d320ec64-e3a8-4e91-a3f8-136d09782c37" />
-# Day 13 (Date: 11-07-2025)
+
+# Day 13 (Date: 11-07-2025).
 I Studied about Git,Features of git,How to use Git Hub
 # What is git:
 Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency It helps you keep track of code changes, collaborate with other developers, and manage different versions of your codebase. -Git is used to tracking changes in the source code
