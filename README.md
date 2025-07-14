@@ -1545,6 +1545,58 @@ use to add file to the origial repository.
 <img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/25626cca-0b31-457f-a30c-352761037aa2" />
 ##### the file is get added to the repository
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0d55aac-ee60-4e48-a53d-538ae514ca03" />
+# Day 14 (Date: 14-07-2025)
+Today Is my 14th day in (TRAINING CSE 15 DAYS)
+I Studied about Branching and margening 
+# What is Branching and its commands in GIT:
+In Git, **branching** is a core concept that allows developers to diverge from the main line of development and continue to work independently without affecting the main codebase. It’s like creating a separate line of development for adding features, fixing bugs, or experimenting.
+## What is a Branch?
+A **branch** in Git is simply a lightweight movable pointer to a commit. The default branch in most repositories is called main (or master in older repos). When you create a new branch, Git creates a pointer that you can switch to and make commits independently from other branches.
+## Common Git Branching Commands:
+###
+| Action                           | Command                         | Description                                                    |
+| -------------------------------- | ------------------------------- | -------------------------------------------------------------- |
+| **Create a new branch**          | `git branch <branch-name>`      | Creates a new branch but doesn't switch to it.                 |
+| **Create and switch**            | `git checkout -b <branch-name>` | Creates and switches to the new branch.                        |
+| **Switch to an existing branch** | `git checkout <branch-name>`    | Switches to the specified branch.                              |
+| **New method to switch**         | `git switch <branch-name>`      | A modern alternative to `checkout` for switching branches.     |
+| **Create & switch** (modern)     | `git switch -c <branch-name>`   | Create and switch to a new branch.                             |
+| **List all branches**            | `git branch`                    | Shows all local branches; the current one is highlighted.      |
+| **Delete a branch**              | `git branch -d <branch-name>`   | Deletes a branch (if fully merged). Use `-D` to force.         |
+| **Merge a branch**               | `git merge <branch-name>`       | Merges changes from the given branch into your current branch. |
+ **Step 1**: Write code in git bash to creat new branch:
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/4d97b40b-339d-48b1-a9ac-0fd2395973a3" />
+**Step 2**:  Then, My new branch is created like this:
+<img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/1d6abcbc-44fe-4566-8537-a911f8eec9b1" />
+**step 3**: Make file in  new branch then write code in git bash:
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/a305b5f3-42b7-4955-b190-71bde6acfc6d" />
+**step 4**: Now My file is created in new branch:
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/bd0a8055-be2f-4068-bdd3-c3e0d9e379d5" />
+#  Whagt is Margening and its commands in GIT:
+Merging is the process of bringing changes from one branch into another. It’s commonly used when you've finished working on a feature branch and want to integrate your work into the main (or master) branch.
+##  How It Works:
+When you merge one branch into another, Git tries to combine the histories. If there are no conflicting changes, Git will auto-merge. If there are conflicts, you'll need to resolve them manually.
+## Its Commands:
+###
+| Action                       | Command                                  | Description                                            |
+| ---------------------------- | ---------------------------------------- | ------------------------------------------------------ |
+| **Merge a branch**           | `git merge <branch-name>`                | Merges the specified branch into the current branch.   |
+| **Check for conflicts**      | Git does this automatically during merge | If conflicts happen, Git marks them in the files.      |
+| **Abort a merge**            | `git merge --abort`                      | Cancels a merge in progress (if you change your mind). |
+| **Continue after resolving** | `git add .` + `git commit`               | Stage resolved files and complete the merge.           |
+**Step1:** Write the Code to merge new branch With main branch:
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/19fd4956-8db7-499c-a71d-fa5b716f7e8a" />
+**Step2:** Then My  new branch is fully merge with main branch:
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/7dc0a899-c451-4228-bb74-cee22cc8ecd0" />
+
+
+
+
+
+
+
+
+
 
 
 
