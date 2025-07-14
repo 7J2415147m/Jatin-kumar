@@ -1529,7 +1529,7 @@ Step 4. Clone an Existing Repository To contribute to an existing project, clone
 this command is used to create the clone of original repository.
 <img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/08f8dfbd-5129-4f5c-abce-631963823f2f" />
 Step 5. Track Changes Add files to your repository and track changes:
-#### touch cmmand:
+#### touch command:
 to create a file touch command is used syntax: touch filename.
 <img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/630bd4f2-03e7-4f2c-8852-7f4c7de24cab" />
 #### GIT STATUS:
@@ -1545,25 +1545,26 @@ use to add file to the origial repository.
 <img width="1366" height="768" alt="copyImage" src="https://github.com/user-attachments/assets/25626cca-0b31-457f-a30c-352761037aa2" />
 ##### the file is get added to the repository
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0d55aac-ee60-4e48-a53d-538ae514ca03" />
+
 # Day 14 (Date: 14-07-2025)
 Today Is my 14th day in (TRAINING CSE 15 DAYS)
 I Studied about Branching and margening 
 # What is Branching and its commands in GIT:
-In Git, **branching** is a core concept that allows developers to diverge from the main line of development and continue to work independently without affecting the main codebase. It’s like creating a separate line of development for adding features, fixing bugs, or experimenting.
+In Git, branching is a core concept that allows developers to diverge from the main line of development and continue to work independently without affecting the main codebase. It’s like creating a separate line of development for adding features, fixing bugs, or experimenting.
 ## What is a Branch?
-A **branch** in Git is simply a lightweight movable pointer to a commit. The default branch in most repositories is called main (or master in older repos). When you create a new branch, Git creates a pointer that you can switch to and make commits independently from other branches.
+A **branch in Git is simply a lightweight movable pointer to a commit. The default branch in most repositories is called main (or master in older repos). When you create a new branch, Git creates a pointer that you can switch to and make commits independently from other branches.
 ## Common Git Branching Commands:
 ###
 | Action                           | Command                         | Description                                                    |
 | -------------------------------- | ------------------------------- | -------------------------------------------------------------- |
-| **Create a new branch**          | `git branch <branch-name>`      | Creates a new branch but doesn't switch to it.                 |
-| **Create and switch**            | `git checkout -b <branch-name>` | Creates and switches to the new branch.                        |
-| **Switch to an existing branch** | `git checkout <branch-name>`    | Switches to the specified branch.                              |
-| **New method to switch**         | `git switch <branch-name>`      | A modern alternative to `checkout` for switching branches.     |
-| **Create & switch** (modern)     | `git switch -c <branch-name>`   | Create and switch to a new branch.                             |
-| **List all branches**            | `git branch`                    | Shows all local branches; the current one is highlighted.      |
-| **Delete a branch**              | `git branch -d <branch-name>`   | Deletes a branch (if fully merged). Use `-D` to force.         |
-| **Merge a branch**               | `git merge <branch-name>`       | Merges changes from the given branch into your current branch. |
+| Create a new branch          | `git branch <branch-name>`      | Creates a new branch but doesn't switch to it.                 |
+| Create and switch           | `git checkout -b <branch-name>` | Creates and switches to the new branch.                        |
+| Switch to an existing branch | `git checkout <branch-name>`    | Switches to the specified branch.                              |
+| New method to switch         | `git switch <branch-name>`      | A modern alternative to `checkout` for switching branches.     |
+| Create & switch (modern)     | `git switch -c <branch-name>`   | Create and switch to a new branch.                             |
+| List all branches            | `git branch`                    | Shows all local branches; the current one is highlighted.      |
+| Delete a branch              | `git branch -d <branch-name>`   | Deletes a branch (if fully merged). Use `-D` to force.         |
+| Merge a branch               | `git merge <branch-name>`       | Merges changes from the given branch into your current branch. |
  **Step 1**: Write code in git bash to creat new branch:
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/4d97b40b-339d-48b1-a9ac-0fd2395973a3" />
 **Step 2**:  Then, My new branch is created like this:
