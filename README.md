@@ -1309,26 +1309,15 @@ I studied about (Introduction)what is HTML(Hyper Text Markup Language),How Brows
 # (Introduction) What is HTML(Hyper Text MarkUp Language:
 #### -> HTML stands for HyperText Markup Language. 
 It is the standard language used to create and structure content on the World Wide Web.Think of HTML as the skeleton of a webpage. It defines the layout and structure of web content using elements such as:
-
 Headings (<h1>, <h2>, etc.)
-
 Paragraphs (<p>)
-
 Links (<a>)
-
 Images (<img>)
-
 Lists (<ul>, <ol>, <li>)
-
 Tables (<table>, <tr>, <td>)
-
 And many more
-
 Each piece of content is wrapped in tags (e.g., <p>This is a paragraph.</p>) to indicate how it should be displayed or function.
-
-While HTML handles the structure, it is often combined with CSS (Cascading Style Sheets) for styling and JavaScript for interactivity.
-
-In summary, HTML is the foundation of every web page, making it an essential language for anyone interested in web development .
+While HTML handles the structure, it is often combined with CSS (Cascading Style Sheets) for styling and JavaScript for interactivity
 # How Browser Renders it:
 When you open a webpage, your web browser (like Chrome, Firefox, Safari) goes through a process to display the page correctly. Here's a step-by-step breakdown of how a browser renders HTML:
 
@@ -1337,7 +1326,7 @@ The browser requests the HTML file from the server using the URL.
 
 It may also request other resources linked in the HTML, like CSS, JavaScript, images, fonts, etc.
 
-Parsing CSS
+### Parsing CSS
 CSS files and styles within the HTML are parsed next.
 
 The browser applies styles to the DOM elements based on CSS rules.
@@ -1346,17 +1335,14 @@ This creates the Render Tree, which includes only visible elements and their sty
 
 ### 4. Layout (Reflow)
 The browser calculates the size and position of each element on the page.
-
 This is called layout or reflow.
 
 ### 5. Painting
 The browser paints pixels to the screen, based on the render tree.
-
 This step draws text, colors, images, borders, etc.
 
 ### 6. Compositing
 In complex layouts, the browser may break the page into layers and combine them in the correct order.
-
 This is the final visual output you see.
 # Structure of HTML(Hyper Text MarkUp Language):
 A basic HTML document follows a well-defined structure made up of elements (tags). Here's the standard structure:
