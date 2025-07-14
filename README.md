@@ -1309,16 +1309,16 @@ I studied about (Introduction)what is HTML(Hyper Text Markup Language),How Brows
 # (Introduction) What is HTML(Hyper Text MarkUp Language:
 #### -> HTML stands for HyperText Markup Language. 
 It is the standard language used to create and structure content on the World Wide Web.Think of HTML as the skeleton of a webpage. It defines the layout and structure of web content using elements such as:
-Headings (<h1>, <h2>, etc.)
-Paragraphs (<p>)
-Links (<a>)
-Images (<img>)
-Lists (<ul>, <ol>, <li>)
-Tables (<table>, <tr>, <td>)
+->Headings (<h1>, <h2>, etc.)
+->Paragraphs (<p>)
+->Links (<a>)
+->Images (<img>)
+->Lists (<ul>, <ol>, <li>)
+->Tables (<table>, <tr>, <td>)
 And many more
 Each piece of content is wrapped in tags (e.g., <p>This is a paragraph.</p>) to indicate how it should be displayed or function.
 While HTML handles the structure, it is often combined with CSS (Cascading Style Sheets) for styling and JavaScript for interactivity
-# How Browser Renders it:
+## How Browser Renders it:
 When you open a webpage, your web browser (like Chrome, Firefox, Safari) goes through a process to display the page correctly. Here's a step-by-step breakdown of how a browser renders HTML:
 
 ### 1. Loading
