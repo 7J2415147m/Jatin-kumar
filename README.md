@@ -1309,12 +1309,12 @@ I studied about (Introduction)what is HTML(Hyper Text Markup Language),How Brows
 # (Introduction) What is HTML(Hyper Text MarkUp Language:
 #### -> HTML stands for HyperText Markup Language. 
 It is the standard language used to create and structure content on the World Wide Web.Think of HTML as the skeleton of a webpage. It defines the layout and structure of web content using elements such as:
-->Headings (<h1>, <h2>, etc.)
-->Paragraphs (<p>)
-->Links (<a>)
-->Images (<img>)
-->Lists (<ul>, <ol>, <li>)
-->Tables (<table>, <tr>, <td>)
+->Headings
+->Paragraph
+->Links
+->Images
+->Lists
+->Tables
 And many more
 Each piece of content is wrapped in tags (e.g., <p>This is a paragraph.</p>) to indicate how it should be displayed or function.
 While HTML handles the structure, it is often combined with CSS (Cascading Style Sheets) for styling and JavaScript for interactivity
@@ -1406,19 +1406,19 @@ I studied about Semantic HTML and its Benefits
 # Semantic HTML and its benefits:
 Semantic HTML uses HTML5 tags that clearly describe the meaning of the content they contain, both to the browser and to developers. Instead of using generic tags like <div> and <span>, semantic HTML uses elements like:
 
-#### .<header>
+#### <header>
 
-#### . <nav>
+####  <nav>
 
-#### . <main>
+####  <main>
 
-#### . <article>
+####  <article>
 
-#### . <section>
+####  <section>
 
-#### . <aside>
+####  <aside>
 
-#### . <footer>
+####  <footer>
 
 These tags make the structure of a web page more readable and accessible.
 
